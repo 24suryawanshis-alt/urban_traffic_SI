@@ -1,0 +1,1201 @@
+Trip_ID,Distance_KM,Travel_Time_Min,Average_Speed_KMH,Vehicle_Count,Peak_Hour,Weather_Condition,Road_Type,Congestion_Level,Accident_Reported,Day_Of_Week,City_Zone
+TRIP-1001,5.9,16.8,26.6,2046,Morning Peak,Rainy,Arterial,Severe,No,Tuesday,Industrial Park
+TRIP-1002,18.5,16.5,70.6,1267,Off-Peak,Rainy,Highway,Moderate,No,Thursday,Suburban Ring
+TRIP-1003,7.3,50.6,12,2213,Morning Peak,Rainy,Urban Local,Severe,Yes,Saturday,Downtown Core
+TRIP-1004,27.3,40.5,46.9,1772,Evening Peak,Rainy,Highway,Severe,No,Sunday,Suburban Ring
+TRIP-1005,10.2,11.8,53.2,411,Off-Peak,Clear,Collector,Low,No,Thursday,Uptown Business
+TRIP-1006,42.9,43.7,67.5,1804,Evening Peak,Clear,Highway,High,No,Wednesday,Uptown Business
+TRIP-1007,24.8,27.9,64.7,2096,Morning Peak,Clear,Highway,High,No,Thursday,Suburban Ring
+TRIP-1008,1.1,4.3,12.6,1052,Off-Peak,Foggy,Urban Local,Moderate,No,Friday,Uptown Business
+TRIP-1009,10.5,14.5,49.8,1377,Off-Peak,Rainy,Arterial,Moderate,No,Thursday,Downtown Core
+TRIP-1010,6.6,35.7,12,1611,Evening Peak,Snowy,Urban Local,High,No,Wednesday,Downtown Core
+TRIP-1011,12,15.6,57.7,1481,Morning Peak,Clear,Arterial,Moderate,No,Monday,Downtown Core
+TRIP-1012,9.3,11,48.3,534,Off-Peak,Clear,Collector,Low,No,Tuesday,Suburban Ring
+TRIP-1013,5.3,12.4,28.5,1403,Off-Peak,Clear,Urban Local,Moderate,No,Thursday,Downtown Core
+TRIP-1014,3.7,11.4,26.9,1557,Evening Peak,Clear,Collector,High,No,Thursday,Industrial Park
+TRIP-1015,15,15.5,59.6,551,Off-Peak,Rainy,Arterial,Low,No,Tuesday,Uptown Business
+TRIP-1016,5.3,9.3,33.6,789,Off-Peak,Snowy,Collector,Low,No,Wednesday,Industrial Park
+TRIP-1017,8.5,27.5,20,3004,Morning Peak,Foggy,Arterial,Severe,No,Saturday,Downtown Core
+TRIP-1018,33.1,26.3,81,845,Off-Peak,Foggy,Highway,Low,No,Monday,Suburban Ring
+TRIP-1019,43.5,91.5,36.3,2669,Evening Peak,Rainy,Highway,Severe,Yes,Sunday,Uptown Business
+TRIP-1020,10.9,57.9,12,1631,Morning Peak,Snowy,Collector,High,No,Wednesday,Industrial Park
+TRIP-1021,5,7.7,52.1,852,Off-Peak,Clear,Collector,Low,No,Sunday,Uptown Business
+TRIP-1022,5.7,6.9,45.3,1392,Off-Peak,Rainy,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-1023,6.6,8.1,43.2,421,Off-Peak,Rainy,Collector,Low,No,Thursday,Uptown Business
+TRIP-1024,7.9,11.9,34.7,1059,Off-Peak,Rainy,Collector,Moderate,No,Tuesday,Suburban Ring
+TRIP-1025,9.3,21.7,26.2,1122,Off-Peak,Snowy,Collector,Moderate,No,Tuesday,Downtown Core
+TRIP-1026,7.1,17.5,22.3,813,Off-Peak,Foggy,Urban Local,Low,No,Wednesday,Uptown Business
+TRIP-1027,15.3,20.5,45,952,Off-Peak,Rainy,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-1028,29,45.9,41.5,2006,Morning Peak,Snowy,Highway,Severe,No,Monday,Industrial Park
+TRIP-1029,3.9,6.5,38.9,1489,Off-Peak,Clear,Collector,Moderate,No,Saturday,Downtown Core
+TRIP-1030,3.7,24.2,41.5,526,Off-Peak,Rainy,Arterial,Low,Yes,Thursday,Industrial Park
+TRIP-1031,7.5,42.1,12,1810,Evening Peak,Rainy,Urban Local,Severe,No,Thursday,Suburban Ring
+TRIP-1032,13.5,36.9,25,2702,Morning Peak,Rainy,Arterial,Severe,No,Thursday,Downtown Core
+TRIP-1033,5.5,31.9,12,2422,Evening Peak,Rainy,Collector,Severe,No,Friday,Downtown Core
+TRIP-1034,19,19.5,55,1548,Off-Peak,Foggy,Highway,High,No,Tuesday,Downtown Core
+TRIP-1035,15,18.8,46.2,1040,Off-Peak,Rainy,Arterial,Moderate,No,Sunday,Suburban Ring
+TRIP-1036,15.9,22.3,51.7,1134,Evening Peak,Rainy,Arterial,Moderate,No,Thursday,Industrial Park
+TRIP-1037,3.9,23.6,12,2023,Morning Peak,Snowy,Urban Local,Severe,No,Wednesday,Uptown Business
+TRIP-1038,6.3,12.3,30.6,1190,Off-Peak,Clear,Urban Local,Moderate,No,Tuesday,Downtown Core
+TRIP-1039,17.7,26.3,46.7,1666,Evening Peak,Clear,Arterial,High,No,Saturday,Industrial Park
+TRIP-1040,7.7,11.8,35.2,973,Off-Peak,Rainy,Collector,Moderate,No,Monday,Suburban Ring
+TRIP-1041,33,25.8,82.3,1246,Off-Peak,Clear,Highway,Moderate,No,Friday,Industrial Park
+TRIP-1042,4.3,7.6,37.1,733,Off-Peak,Clear,Urban Local,Low,No,Sunday,Suburban Ring
+TRIP-1043,8.1,44.7,12,2141,Morning Peak,Rainy,Collector,Severe,No,Tuesday,Uptown Business
+TRIP-1044,23,28,56.8,2362,Evening Peak,Clear,Highway,Severe,No,Sunday,Suburban Ring
+TRIP-1045,39,61.9,40,2287,Morning Peak,Snowy,Highway,Severe,No,Wednesday,Uptown Business
+TRIP-1046,6.2,18.3,26.7,2461,Evening Peak,Rainy,Arterial,Severe,No,Monday,Uptown Business
+TRIP-1047,11.8,10.9,64.9,611,Off-Peak,Clear,Arterial,Low,No,Thursday,Suburban Ring
+TRIP-1048,16.2,20.3,65.6,2104,Evening Peak,Clear,Highway,High,No,Friday,Industrial Park
+TRIP-1049,2.1,13.6,14.8,1916,Evening Peak,Clear,Urban Local,High,No,Tuesday,Industrial Park
+TRIP-1050,6.9,18.7,26.3,1767,Morning Peak,Clear,Collector,High,No,Monday,Suburban Ring
+TRIP-1051,2.9,16.1,12,1666,Morning Peak,Rainy,Urban Local,High,No,Tuesday,Uptown Business
+TRIP-1052,4.1,8.9,29.7,496,Off-Peak,Foggy,Urban Local,Low,No,Saturday,Suburban Ring
+TRIP-1053,8.3,58.8,12,1082,Off-Peak,Snowy,Collector,Moderate,Yes,Sunday,Industrial Park
+TRIP-1054,2.3,29.9,12,2028,Evening Peak,Foggy,Collector,Severe,Yes,Saturday,Suburban Ring
+TRIP-1055,4.2,13.3,19.2,949,Off-Peak,Rainy,Urban Local,Moderate,No,Thursday,Uptown Business
+TRIP-1056,2.3,5.1,37.3,1431,Off-Peak,Clear,Collector,Moderate,No,Wednesday,Downtown Core
+TRIP-1057,42,32.2,76.1,1008,Off-Peak,Clear,Highway,Moderate,No,Sunday,Suburban Ring
+TRIP-1058,16.4,30.2,36.1,2128,Morning Peak,Snowy,Highway,Severe,No,Saturday,Suburban Ring
+TRIP-1059,2.5,14.6,12,2288,Morning Peak,Foggy,Urban Local,Severe,No,Friday,Suburban Ring
+TRIP-1060,8.5,15,37.4,1010,Off-Peak,Snowy,Arterial,Moderate,No,Tuesday,Suburban Ring
+TRIP-1061,3.9,12.6,17.8,1131,Off-Peak,Rainy,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1062,6.8,11.8,34.3,633,Off-Peak,Snowy,Collector,Low,No,Friday,Suburban Ring
+TRIP-1063,3.4,15.6,18.3,1351,Evening Peak,Foggy,Urban Local,Moderate,No,Tuesday,Suburban Ring
+TRIP-1064,21.1,19.5,64.2,1211,Off-Peak,Foggy,Highway,Moderate,No,Saturday,Downtown Core
+TRIP-1065,29.4,37,52.5,2233,Evening Peak,Clear,Highway,Severe,No,Sunday,Suburban Ring
+TRIP-1066,8.9,16.7,43.9,1496,Evening Peak,Clear,Collector,Moderate,No,Friday,Suburban Ring
+TRIP-1067,24.4,27.2,58.1,2696,Morning Peak,Clear,Highway,Severe,No,Wednesday,Industrial Park
+TRIP-1068,1.4,3.7,25.3,739,Off-Peak,Snowy,Urban Local,Low,No,Sunday,Uptown Business
+TRIP-1069,16.3,21.8,55.4,1610,Morning Peak,Foggy,Highway,High,No,Monday,Suburban Ring
+TRIP-1070,13.9,19.5,56.7,2283,Evening Peak,Clear,Highway,Severe,No,Saturday,Downtown Core
+TRIP-1071,4.9,7.5,41.3,465,Off-Peak,Clear,Urban Local,Low,No,Thursday,Suburban Ring
+TRIP-1072,5.2,6.2,38.1,1004,Off-Peak,Clear,Collector,Moderate,No,Thursday,Suburban Ring
+TRIP-1073,16.2,14.3,64.3,1133,Off-Peak,Foggy,Highway,Moderate,No,Thursday,Uptown Business
+TRIP-1074,16.5,86.2,12,2246,Morning Peak,Snowy,Arterial,Severe,No,Tuesday,Downtown Core
+TRIP-1075,5.6,6.8,40.2,1133,Off-Peak,Snowy,Arterial,Moderate,No,Wednesday,Downtown Core
+TRIP-1076,9.5,7.9,58.9,893,Off-Peak,Rainy,Arterial,Low,No,Saturday,Industrial Park
+TRIP-1077,3.6,5.6,42.2,1128,Off-Peak,Clear,Collector,Moderate,No,Monday,Suburban Ring
+TRIP-1078,3.9,24.9,12,1783,Evening Peak,Rainy,Urban Local,Severe,No,Monday,Uptown Business
+TRIP-1079,8.5,47.9,12,2172,Morning Peak,Rainy,Collector,Severe,No,Saturday,Suburban Ring
+TRIP-1080,6.7,7.7,43.1,415,Off-Peak,Rainy,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-1081,3.5,18.7,16.8,1901,Evening Peak,Clear,Urban Local,High,No,Sunday,Downtown Core
+TRIP-1082,12.5,16,45.5,1466,Off-Peak,Rainy,Arterial,Moderate,No,Saturday,Downtown Core
+TRIP-1083,4.6,8.8,37,729,Off-Peak,Clear,Urban Local,Low,No,Wednesday,Downtown Core
+TRIP-1084,2.4,15.2,14,1519,Evening Peak,Snowy,Collector,High,No,Friday,Industrial Park
+TRIP-1085,9.6,21.6,29.6,1726,Morning Peak,Clear,Collector,High,No,Sunday,Suburban Ring
+TRIP-1086,7.3,8.7,50.2,830,Off-Peak,Clear,Collector,Low,No,Monday,Downtown Core
+TRIP-1087,5.3,24.9,12,1034,Off-Peak,Snowy,Urban Local,Moderate,No,Saturday,Uptown Business
+TRIP-1088,43.9,39.8,72,2187,Morning Peak,Clear,Highway,High,No,Wednesday,Suburban Ring
+TRIP-1089,12.1,30.2,29,2512,Morning Peak,Clear,Arterial,Severe,No,Tuesday,Downtown Core
+TRIP-1090,4.7,6.5,57.1,1069,Off-Peak,Clear,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-1091,7.2,35.1,12.1,1207,Off-Peak,Foggy,Urban Local,Moderate,No,Wednesday,Downtown Core
+TRIP-1092,2.1,11.4,15.2,1816,Evening Peak,Clear,Urban Local,High,No,Friday,Suburban Ring
+TRIP-1093,7.6,16.4,39.7,2159,Evening Peak,Clear,Arterial,High,No,Monday,Suburban Ring
+TRIP-1094,4.8,23.5,16.8,2775,Evening Peak,Clear,Collector,Severe,No,Sunday,Suburban Ring
+TRIP-1095,8.7,30.1,19.8,1672,Evening Peak,Foggy,Collector,High,No,Tuesday,Uptown Business
+TRIP-1096,20.9,19.1,63.5,1352,Off-Peak,Snowy,Highway,Moderate,No,Monday,Suburban Ring
+TRIP-1097,8.8,18.6,36.8,1425,Evening Peak,Clear,Collector,Moderate,No,Saturday,Suburban Ring
+TRIP-1098,16.9,22.8,50.1,1863,Morning Peak,Rainy,Highway,Severe,No,Saturday,Suburban Ring
+TRIP-1099,6.5,14.7,34.1,1569,Evening Peak,Foggy,Arterial,High,No,Thursday,Uptown Business
+TRIP-1100,1.7,3,34.2,722,Off-Peak,Rainy,Urban Local,Low,No,Wednesday,Uptown Business
+TRIP-1101,33.4,39.1,54.7,2560,Morning Peak,Clear,Highway,Severe,No,Monday,Industrial Park
+TRIP-1102,37,54.3,45,2497,Evening Peak,Foggy,Highway,Severe,No,Wednesday,Downtown Core
+TRIP-1103,3.4,21.1,12,2239,Evening Peak,Foggy,Collector,Severe,No,Sunday,Suburban Ring
+TRIP-1104,4.7,5.8,50.9,682,Off-Peak,Foggy,Arterial,Low,No,Thursday,Industrial Park
+TRIP-1105,16,15.7,54.4,1536,Off-Peak,Foggy,Highway,High,No,Thursday,Uptown Business
+TRIP-1106,2.7,16.4,12,2275,Evening Peak,Clear,Urban Local,Severe,No,Thursday,Suburban Ring
+TRIP-1107,3.1,18.1,12,2305,Evening Peak,Snowy,Urban Local,Severe,No,Friday,Downtown Core
+TRIP-1108,6.6,35.1,12,2287,Morning Peak,Snowy,Collector,Severe,No,Sunday,Industrial Park
+TRIP-1109,12,20,47.5,1415,Evening Peak,Rainy,Arterial,Moderate,No,Monday,Uptown Business
+TRIP-1110,34.6,91.8,30.2,2747,Evening Peak,Rainy,Highway,Severe,Yes,Sunday,Suburban Ring
+TRIP-1111,1.8,10.9,12,2096,Morning Peak,Rainy,Urban Local,Severe,No,Sunday,Uptown Business
+TRIP-1112,35.4,31.6,71,1415,Off-Peak,Foggy,Highway,Moderate,No,Sunday,Downtown Core
+TRIP-1113,7.6,10,51.3,884,Off-Peak,Clear,Collector,Low,No,Monday,Industrial Park
+TRIP-1114,2.9,6.9,27.4,731,Off-Peak,Rainy,Urban Local,Low,No,Saturday,Industrial Park
+TRIP-1115,5.3,10.4,30.1,976,Off-Peak,Clear,Urban Local,Moderate,No,Friday,Industrial Park
+TRIP-1116,9.7,36.2,18.1,2484,Morning Peak,Clear,Collector,Severe,No,Tuesday,Downtown Core
+TRIP-1117,3.3,9.9,20.6,1123,Off-Peak,Rainy,Urban Local,Moderate,No,Monday,Suburban Ring
+TRIP-1118,10.6,15.3,37.1,672,Off-Peak,Snowy,Collector,Low,No,Wednesday,Uptown Business
+TRIP-1119,22.3,21.9,65.1,1704,Off-Peak,Clear,Highway,High,No,Thursday,Downtown Core
+TRIP-1120,7.1,41.7,12,1538,Evening Peak,Snowy,Urban Local,High,No,Friday,Uptown Business
+TRIP-1121,5.4,6.2,39.7,1108,Off-Peak,Clear,Collector,Moderate,No,Saturday,Suburban Ring
+TRIP-1122,7.4,42.3,12,2571,Evening Peak,Snowy,Urban Local,Severe,No,Thursday,Suburban Ring
+TRIP-1123,12.4,22.7,42.8,1941,Evening Peak,Foggy,Highway,Severe,No,Saturday,Suburban Ring
+TRIP-1124,7,15.5,40.4,1957,Morning Peak,Clear,Arterial,High,No,Sunday,Downtown Core
+TRIP-1125,6.9,25,18.2,2495,Morning Peak,Foggy,Arterial,Severe,No,Monday,Suburban Ring
+TRIP-1126,16,13.8,62.7,769,Off-Peak,Clear,Arterial,Low,No,Saturday,Suburban Ring
+TRIP-1127,19.4,27.1,45.9,2435,Morning Peak,Rainy,Highway,Severe,No,Friday,Industrial Park
+TRIP-1128,3.5,23.1,12,1799,Evening Peak,Foggy,Urban Local,Severe,No,Saturday,Uptown Business
+TRIP-1129,4.7,17.5,14.6,937,Off-Peak,Snowy,Urban Local,Moderate,No,Friday,Suburban Ring
+TRIP-1130,6.7,18.1,24.8,967,Off-Peak,Clear,Urban Local,Moderate,No,Monday,Uptown Business
+TRIP-1131,10.4,29,25.8,2741,Evening Peak,Rainy,Arterial,Severe,No,Saturday,Downtown Core
+TRIP-1132,6.2,46.2,12,1756,Morning Peak,Rainy,Urban Local,Severe,Yes,Wednesday,Industrial Park
+TRIP-1133,2.3,3,39.8,1009,Off-Peak,Clear,Collector,Moderate,No,Monday,Suburban Ring
+TRIP-1134,5.6,30,12,2236,Morning Peak,Rainy,Collector,Severe,No,Saturday,Uptown Business
+TRIP-1135,5.6,12.9,29.5,1091,Off-Peak,Clear,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1136,4.7,10.3,24.5,517,Off-Peak,Foggy,Urban Local,Low,No,Tuesday,Suburban Ring
+TRIP-1137,9.1,25.3,20.8,1165,Off-Peak,Snowy,Collector,Moderate,No,Thursday,Suburban Ring
+TRIP-1138,9.2,65.1,12,2766,Evening Peak,Snowy,Collector,Severe,Yes,Saturday,Downtown Core
+TRIP-1139,2.7,13.3,14.2,1860,Morning Peak,Clear,Urban Local,High,No,Friday,Uptown Business
+TRIP-1140,3.6,3,61.5,446,Off-Peak,Clear,Arterial,Low,No,Tuesday,Industrial Park
+TRIP-1141,10.2,44.3,15.7,2330,Evening Peak,Foggy,Arterial,Severe,No,Thursday,Industrial Park
+TRIP-1142,1.8,5.5,19.8,499,Off-Peak,Snowy,Urban Local,Low,No,Tuesday,Uptown Business
+TRIP-1143,18.8,35.6,36.7,3200,Evening Peak,Snowy,Highway,Severe,No,Wednesday,Downtown Core
+TRIP-1144,4.2,5.6,39,1492,Off-Peak,Snowy,Arterial,Moderate,No,Monday,Downtown Core
+TRIP-1145,7.6,15.2,29.2,1160,Off-Peak,Rainy,Collector,Moderate,No,Tuesday,Suburban Ring
+TRIP-1146,5.8,27,14.8,1832,Evening Peak,Clear,Urban Local,High,No,Wednesday,Downtown Core
+TRIP-1147,3,12.3,19.4,1901,Evening Peak,Clear,Urban Local,High,No,Sunday,Uptown Business
+TRIP-1148,4.6,21.6,14,918,Off-Peak,Foggy,Urban Local,Moderate,No,Monday,Uptown Business
+TRIP-1149,3.8,5.6,34.3,585,Off-Peak,Rainy,Urban Local,Low,No,Thursday,Suburban Ring
+TRIP-1150,34,23.4,82.6,1456,Off-Peak,Clear,Highway,Moderate,No,Monday,Uptown Business
+TRIP-1151,9.2,17.2,35.2,698,Off-Peak,Foggy,Collector,Low,No,Friday,Suburban Ring
+TRIP-1152,6,13.4,31.4,1390,Morning Peak,Clear,Urban Local,Moderate,No,Monday,Suburban Ring
+TRIP-1153,41.3,59.2,46.8,1923,Evening Peak,Foggy,Highway,Severe,No,Friday,Suburban Ring
+TRIP-1154,4.5,3.3,54.8,802,Off-Peak,Rainy,Arterial,Low,No,Monday,Uptown Business
+TRIP-1155,5.6,33.4,12,2117,Morning Peak,Foggy,Collector,Severe,No,Saturday,Industrial Park
+TRIP-1156,1.9,3,33.7,667,Off-Peak,Rainy,Urban Local,Low,No,Thursday,Industrial Park
+TRIP-1157,12.3,15,53.2,1571,Off-Peak,Snowy,Highway,High,No,Tuesday,Downtown Core
+TRIP-1158,6.1,32.4,12,1825,Morning Peak,Rainy,Collector,Severe,No,Saturday,Suburban Ring
+TRIP-1159,6.5,16.5,23.9,1125,Off-Peak,Rainy,Urban Local,Moderate,No,Friday,Uptown Business
+TRIP-1160,9.6,50.8,12.3,2081,Morning Peak,Snowy,Arterial,Severe,No,Saturday,Uptown Business
+TRIP-1161,3.8,25.1,12,1748,Evening Peak,Snowy,Collector,Severe,No,Saturday,Suburban Ring
+TRIP-1162,10.3,48.8,13.5,1512,Morning Peak,Foggy,Collector,High,No,Monday,Suburban Ring
+TRIP-1163,5.2,27,13,1777,Evening Peak,Clear,Urban Local,High,No,Sunday,Suburban Ring
+TRIP-1164,10.8,19.6,35.9,1204,Morning Peak,Rainy,Collector,Moderate,No,Monday,Suburban Ring
+TRIP-1165,17.1,23.8,44.6,1035,Off-Peak,Rainy,Arterial,Moderate,No,Wednesday,Industrial Park
+TRIP-1166,23.7,18.9,78.6,1130,Off-Peak,Clear,Highway,Moderate,No,Saturday,Uptown Business
+TRIP-1167,22.4,33,49.6,2336,Evening Peak,Rainy,Highway,Severe,No,Friday,Uptown Business
+TRIP-1168,15,48,19.9,1906,Morning Peak,Rainy,Arterial,Severe,No,Sunday,Uptown Business
+TRIP-1169,9.5,12,55,741,Off-Peak,Rainy,Arterial,Low,No,Friday,Suburban Ring
+TRIP-1170,6.8,40,12,1535,Evening Peak,Rainy,Urban Local,High,No,Sunday,Suburban Ring
+TRIP-1171,32.2,53.5,40.5,2362,Evening Peak,Snowy,Highway,Severe,No,Tuesday,Suburban Ring
+TRIP-1172,33.6,49.2,44.3,2534,Morning Peak,Rainy,Highway,Severe,No,Wednesday,Industrial Park
+TRIP-1173,4.4,12.5,40.8,1965,Evening Peak,Clear,Arterial,High,No,Thursday,Industrial Park
+TRIP-1174,10.2,16.2,42.5,853,Off-Peak,Rainy,Collector,Low,No,Friday,Downtown Core
+TRIP-1175,24.3,19,75.1,1263,Off-Peak,Rainy,Highway,Moderate,No,Friday,Suburban Ring
+TRIP-1176,37.3,22.6,91.9,899,Off-Peak,Clear,Highway,Low,No,Thursday,Suburban Ring
+TRIP-1177,5.6,29.8,12,2499,Morning Peak,Rainy,Collector,Severe,No,Monday,Downtown Core
+TRIP-1178,6.2,11.8,37.9,832,Off-Peak,Foggy,Collector,Low,No,Friday,Uptown Business
+TRIP-1179,3,21,12,2155,Evening Peak,Snowy,Collector,Severe,No,Thursday,Downtown Core
+TRIP-1180,20.2,28.6,51.6,1885,Morning Peak,Rainy,Highway,Severe,No,Monday,Suburban Ring
+TRIP-1181,14.2,23,40.5,2069,Morning Peak,Clear,Arterial,High,No,Sunday,Uptown Business
+TRIP-1182,9.7,13.4,47.5,1262,Off-Peak,Rainy,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-1183,7.6,12.1,44.1,694,Off-Peak,Rainy,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-1184,10.5,14.6,45.8,648,Off-Peak,Rainy,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-1185,23.6,32.1,46.5,1793,Morning Peak,Rainy,Highway,Severe,No,Saturday,Uptown Business
+TRIP-1186,10.1,13,48.3,772,Off-Peak,Clear,Collector,Low,No,Friday,Industrial Park
+TRIP-1187,5.7,9.2,32.4,672,Off-Peak,Snowy,Collector,Low,No,Tuesday,Industrial Park
+TRIP-1188,5.1,5.4,50.2,959,Off-Peak,Rainy,Arterial,Moderate,No,Friday,Uptown Business
+TRIP-1189,16.9,14,70.2,1032,Off-Peak,Rainy,Highway,Moderate,No,Wednesday,Industrial Park
+TRIP-1190,9.2,49.3,12,2503,Evening Peak,Rainy,Collector,Severe,No,Monday,Industrial Park
+TRIP-1191,31.7,44.4,46.4,1917,Morning Peak,Foggy,Highway,Severe,No,Saturday,Industrial Park
+TRIP-1192,3.5,6.8,26.4,1175,Off-Peak,Clear,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1193,11.3,27.8,29.5,1686,Evening Peak,Foggy,Arterial,High,No,Thursday,Uptown Business
+TRIP-1194,16.3,49.8,32.9,1558,Morning Peak,Clear,Arterial,High,Yes,Wednesday,Uptown Business
+TRIP-1195,4.2,14.4,30.2,2662,Evening Peak,Clear,Arterial,Severe,No,Saturday,Downtown Core
+TRIP-1196,5.1,20.2,37.9,564,Off-Peak,Snowy,Arterial,Low,Yes,Thursday,Uptown Business
+TRIP-1197,5.5,8.7,42.9,582,Off-Peak,Rainy,Collector,Low,No,Monday,Suburban Ring
+TRIP-1198,16.6,13.5,65.9,1521,Off-Peak,Clear,Highway,High,No,Tuesday,Industrial Park
+TRIP-1199,33.8,47.2,48.1,1679,Morning Peak,Snowy,Highway,High,No,Wednesday,Uptown Business
+TRIP-1200,7.4,11.8,39.1,773,Off-Peak,Clear,Urban Local,Low,No,Sunday,Uptown Business
+TRIP-1201,14,11.7,79.6,1287,Off-Peak,Clear,Highway,Moderate,No,Thursday,Suburban Ring
+TRIP-1202,3,17.3,13.6,1525,Evening Peak,Snowy,Collector,High,No,Saturday,Industrial Park
+TRIP-1203,17.7,28.9,43.9,1897,Evening Peak,Clear,Arterial,High,No,Monday,Suburban Ring
+TRIP-1204,3.2,10.3,19.8,1049,Off-Peak,Foggy,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1205,6.7,47.9,12,2467,Morning Peak,Clear,Urban Local,Severe,Yes,Saturday,Downtown Core
+TRIP-1206,5.8,9.7,44.4,2035,Morning Peak,Clear,Arterial,High,No,Tuesday,Suburban Ring
+TRIP-1207,12.6,16.1,53.9,2539,Morning Peak,Clear,Highway,Severe,No,Tuesday,Industrial Park
+TRIP-1208,5.4,12.9,21.8,1177,Off-Peak,Snowy,Collector,Moderate,No,Saturday,Suburban Ring
+TRIP-1209,8,9.5,47.9,798,Off-Peak,Clear,Collector,Low,No,Saturday,Industrial Park
+TRIP-1210,14.6,23.4,44.6,3098,Morning Peak,Foggy,Highway,Severe,No,Sunday,Downtown Core
+TRIP-1211,32.2,28.5,68,1314,Off-Peak,Foggy,Highway,Moderate,No,Tuesday,Suburban Ring
+TRIP-1212,4.7,7.5,48.2,1112,Morning Peak,Rainy,Arterial,Moderate,No,Saturday,Uptown Business
+TRIP-1213,10.7,12.8,51.7,778,Off-Peak,Clear,Collector,Low,No,Thursday,Downtown Core
+TRIP-1214,7.3,42.4,12,2531,Evening Peak,Clear,Urban Local,Severe,No,Friday,Industrial Park
+TRIP-1215,3.1,3,55.7,822,Off-Peak,Rainy,Arterial,Low,No,Saturday,Downtown Core
+TRIP-1216,7.5,52.4,12,904,Off-Peak,Snowy,Collector,Moderate,Yes,Sunday,Downtown Core
+TRIP-1217,12.2,14.8,56,876,Off-Peak,Rainy,Arterial,Low,No,Thursday,Uptown Business
+TRIP-1218,5.5,33.7,12,2015,Evening Peak,Foggy,Collector,Severe,No,Tuesday,Suburban Ring
+TRIP-1219,3.4,7.7,29.5,854,Off-Peak,Rainy,Urban Local,Low,No,Sunday,Downtown Core
+TRIP-1220,5.6,13.3,23.4,486,Off-Peak,Snowy,Urban Local,Low,No,Sunday,Industrial Park
+TRIP-1221,36.6,61.8,39.6,2330,Evening Peak,Foggy,Highway,Severe,No,Wednesday,Suburban Ring
+TRIP-1222,5.3,31.8,12,1957,Evening Peak,Rainy,Collector,Severe,No,Friday,Industrial Park
+TRIP-1223,10.7,17.9,45.8,1714,Morning Peak,Clear,Arterial,High,No,Wednesday,Suburban Ring
+TRIP-1224,4.2,7,28.4,630,Off-Peak,Foggy,Urban Local,Low,No,Tuesday,Uptown Business
+TRIP-1225,12.9,15.2,53.2,1382,Off-Peak,Clear,Arterial,Moderate,No,Tuesday,Downtown Core
+TRIP-1226,16.3,29.8,39.2,3028,Morning Peak,Snowy,Highway,Severe,No,Thursday,Downtown Core
+TRIP-1227,10.6,13.7,41.3,1275,Off-Peak,Clear,Collector,Moderate,No,Wednesday,Downtown Core
+TRIP-1228,6,33.7,12,1574,Morning Peak,Snowy,Collector,High,No,Monday,Industrial Park
+TRIP-1229,8.6,46.6,12,2121,Evening Peak,Foggy,Collector,Severe,No,Sunday,Suburban Ring
+TRIP-1230,12,9.8,64.1,433,Off-Peak,Clear,Arterial,Low,No,Monday,Suburban Ring
+TRIP-1231,14.7,44.5,20.8,1874,Morning Peak,Foggy,Arterial,Severe,No,Wednesday,Suburban Ring
+TRIP-1232,35.8,37.2,59.6,1526,Off-Peak,Foggy,Highway,High,No,Saturday,Downtown Core
+TRIP-1233,10.1,25.8,30.2,1359,Evening Peak,Rainy,Collector,Moderate,No,Tuesday,Suburban Ring
+TRIP-1234,17.2,107.8,12,2529,Morning Peak,Rainy,Arterial,Severe,Yes,Thursday,Downtown Core
+TRIP-1235,7.4,21.1,25,2284,Morning Peak,Rainy,Arterial,Severe,No,Saturday,Suburban Ring
+TRIP-1236,33.7,45.9,50.5,2854,Evening Peak,Rainy,Highway,Severe,No,Tuesday,Uptown Business
+TRIP-1237,4.2,45.4,12,2117,Evening Peak,Rainy,Urban Local,Severe,Yes,Tuesday,Downtown Core
+TRIP-1238,2.3,13.4,12,1798,Morning Peak,Rainy,Urban Local,Severe,No,Friday,Suburban Ring
+TRIP-1239,12.3,16.6,53.9,1222,Morning Peak,Clear,Arterial,Moderate,No,Sunday,Uptown Business
+TRIP-1240,28.3,23.3,79.1,1113,Off-Peak,Clear,Highway,Moderate,No,Sunday,Uptown Business
+TRIP-1241,10.5,29.1,23.1,1056,Off-Peak,Snowy,Collector,Moderate,No,Tuesday,Uptown Business
+TRIP-1242,33.2,26.3,81.7,859,Off-Peak,Rainy,Highway,Low,No,Saturday,Uptown Business
+TRIP-1243,9.2,13.8,41.8,537,Off-Peak,Foggy,Collector,Low,No,Tuesday,Industrial Park
+TRIP-1244,7.3,42.4,12,2001,Evening Peak,Foggy,Urban Local,Severe,No,Wednesday,Industrial Park
+TRIP-1245,25.8,23,64.5,1607,Off-Peak,Clear,Highway,High,No,Tuesday,Downtown Core
+TRIP-1246,3.6,4.3,52.6,863,Off-Peak,Foggy,Arterial,Low,No,Thursday,Downtown Core
+TRIP-1247,5.3,45.4,12,1831,Evening Peak,Foggy,Urban Local,Severe,Yes,Sunday,Suburban Ring
+TRIP-1248,19.9,36.7,39.3,2950,Evening Peak,Foggy,Highway,Severe,No,Friday,Downtown Core
+TRIP-1249,34.9,30.1,73.8,1224,Off-Peak,Rainy,Highway,Moderate,No,Thursday,Industrial Park
+TRIP-1250,3.7,21.3,14.3,1427,Evening Peak,Snowy,Urban Local,Moderate,No,Friday,Industrial Park
+TRIP-1251,12.1,14.6,51.4,984,Off-Peak,Clear,Arterial,Moderate,No,Saturday,Industrial Park
+TRIP-1252,3.4,20.1,12,2239,Evening Peak,Clear,Urban Local,Severe,No,Sunday,Industrial Park
+TRIP-1253,2.3,16,12,2359,Morning Peak,Rainy,Urban Local,Severe,No,Saturday,Suburban Ring
+TRIP-1254,19.6,13.2,78.7,1109,Off-Peak,Clear,Highway,Moderate,No,Thursday,Uptown Business
+TRIP-1255,5.9,33.1,23.6,651,Off-Peak,Foggy,Collector,Low,Yes,Sunday,Uptown Business
+TRIP-1256,6.4,14.8,42,2156,Evening Peak,Clear,Arterial,High,No,Thursday,Industrial Park
+TRIP-1257,31.5,22.7,77.2,879,Off-Peak,Foggy,Highway,Low,No,Monday,Industrial Park
+TRIP-1258,20.1,57.7,30.9,2159,Evening Peak,Foggy,Highway,Severe,Yes,Friday,Uptown Business
+TRIP-1259,5.9,12.4,30.9,938,Off-Peak,Rainy,Collector,Moderate,No,Tuesday,Suburban Ring
+TRIP-1260,13,13.7,50.9,1583,Off-Peak,Snowy,Highway,High,No,Monday,Suburban Ring
+TRIP-1261,38.9,36.5,64.1,1642,Off-Peak,Clear,Highway,High,No,Friday,Downtown Core
+TRIP-1262,5.8,17.1,24.7,1444,Morning Peak,Clear,Urban Local,Moderate,No,Friday,Industrial Park
+TRIP-1263,15.4,48.1,21.4,2355,Morning Peak,Rainy,Arterial,Severe,No,Thursday,Uptown Business
+TRIP-1264,3.8,37.1,12,2395,Evening Peak,Clear,Collector,Severe,Yes,Monday,Downtown Core
+TRIP-1265,5.4,29.3,12,2310,Morning Peak,Snowy,Urban Local,Severe,No,Wednesday,Uptown Business
+TRIP-1266,14.1,40.2,32.8,2682,Morning Peak,Rainy,Highway,Severe,Yes,Thursday,Downtown Core
+TRIP-1267,7.1,38,12,1713,Morning Peak,Rainy,Collector,Severe,No,Monday,Suburban Ring
+TRIP-1268,7.7,27.9,18.5,2423,Evening Peak,Clear,Collector,Severe,No,Thursday,Suburban Ring
+TRIP-1269,30.1,40.6,47.2,1945,Morning Peak,Rainy,Highway,Severe,No,Friday,Uptown Business
+TRIP-1270,14.8,19.2,50.4,685,Off-Peak,Foggy,Arterial,Low,No,Tuesday,Suburban Ring
+TRIP-1271,10.3,38.3,17.1,1684,Morning Peak,Rainy,Collector,High,No,Monday,Industrial Park
+TRIP-1272,9.8,19.1,40.4,2059,Morning Peak,Clear,Arterial,High,No,Sunday,Uptown Business
+TRIP-1273,1.8,8.3,19.4,1492,Evening Peak,Rainy,Urban Local,Moderate,No,Monday,Uptown Business
+TRIP-1274,9.6,26.9,26.2,1921,Evening Peak,Rainy,Arterial,Severe,No,Sunday,Downtown Core
+TRIP-1275,3.1,17.6,12,2359,Morning Peak,Clear,Urban Local,Severe,No,Tuesday,Downtown Core
+TRIP-1276,6.2,14.7,23.1,546,Off-Peak,Foggy,Urban Local,Low,No,Thursday,Suburban Ring
+TRIP-1277,4.2,16,19.1,1453,Morning Peak,Foggy,Urban Local,Moderate,No,Wednesday,Uptown Business
+TRIP-1278,26.1,41.7,39.3,2092,Morning Peak,Snowy,Highway,Severe,No,Sunday,Downtown Core
+TRIP-1279,8.7,9.6,50.9,852,Off-Peak,Clear,Collector,Low,No,Monday,Downtown Core
+TRIP-1280,21.7,30,52.9,2403,Morning Peak,Clear,Highway,Severe,No,Sunday,Uptown Business
+TRIP-1281,25.9,41.5,43.3,2478,Evening Peak,Foggy,Highway,Severe,No,Sunday,Suburban Ring
+TRIP-1282,6.3,9.8,34.7,829,Off-Peak,Clear,Urban Local,Low,No,Friday,Downtown Core
+TRIP-1283,30.9,24.8,71.1,1392,Off-Peak,Foggy,Highway,Moderate,No,Saturday,Suburban Ring
+TRIP-1284,10.6,25.1,23.7,1393,Off-Peak,Snowy,Collector,Moderate,No,Monday,Downtown Core
+TRIP-1285,6.1,12.5,57.8,1362,Evening Peak,Clear,Arterial,Moderate,No,Monday,Uptown Business
+TRIP-1286,4.4,9.7,31.4,1035,Off-Peak,Clear,Urban Local,Moderate,No,Saturday,Suburban Ring
+TRIP-1287,6.5,13.1,32,717,Off-Peak,Rainy,Urban Local,Low,No,Thursday,Suburban Ring
+TRIP-1288,9.1,50.9,12,2251,Evening Peak,Snowy,Collector,Severe,No,Sunday,Uptown Business
+TRIP-1289,13.5,15.8,55.9,1398,Off-Peak,Clear,Arterial,Moderate,No,Thursday,Downtown Core
+TRIP-1290,10.2,24.8,28.6,2194,Morning Peak,Clear,Collector,High,No,Tuesday,Downtown Core
+TRIP-1291,26.1,39.3,67.2,1279,Off-Peak,Clear,Highway,Moderate,Yes,Thursday,Uptown Business
+TRIP-1292,35,24.7,90,880,Off-Peak,Clear,Highway,Low,No,Wednesday,Industrial Park
+TRIP-1293,14,13,61.4,879,Off-Peak,Clear,Arterial,Low,No,Friday,Downtown Core
+TRIP-1294,6.6,22.3,23.1,2046,Evening Peak,Rainy,Arterial,Severe,No,Wednesday,Downtown Core
+TRIP-1295,18.3,31.9,39.7,2164,Morning Peak,Foggy,Highway,Severe,No,Monday,Industrial Park
+TRIP-1296,42.6,72.9,43.4,1525,Off-Peak,Rainy,Highway,High,Yes,Tuesday,Downtown Core
+TRIP-1297,5.3,14.5,31.9,1852,Morning Peak,Clear,Collector,High,No,Friday,Downtown Core
+TRIP-1298,4.4,7.8,39.9,752,Off-Peak,Clear,Urban Local,Low,No,Friday,Downtown Core
+TRIP-1299,5.2,8.8,39.5,713,Off-Peak,Foggy,Collector,Low,No,Sunday,Suburban Ring
+TRIP-1300,26.3,26.4,64.2,1478,Off-Peak,Snowy,Highway,Moderate,No,Friday,Suburban Ring
+TRIP-1301,6,19.7,24.8,1079,Morning Peak,Clear,Urban Local,Moderate,No,Tuesday,Uptown Business
+TRIP-1302,9.5,20.6,31.4,2535,Morning Peak,Clear,Arterial,Severe,No,Monday,Industrial Park
+TRIP-1303,40.7,32.6,72.2,950,Off-Peak,Rainy,Highway,Moderate,No,Saturday,Industrial Park
+TRIP-1304,8.1,8.6,49.7,954,Off-Peak,Rainy,Arterial,Moderate,No,Sunday,Uptown Business
+TRIP-1305,2.6,3,39.3,445,Off-Peak,Clear,Urban Local,Low,No,Saturday,Suburban Ring
+TRIP-1306,1.3,9.8,12,2201,Evening Peak,Rainy,Urban Local,Severe,No,Sunday,Uptown Business
+TRIP-1307,7,16.5,23.7,445,Off-Peak,Foggy,Urban Local,Low,No,Monday,Industrial Park
+TRIP-1308,4.1,8,29.1,972,Off-Peak,Clear,Urban Local,Moderate,No,Saturday,Industrial Park
+TRIP-1309,14.6,21.8,53.3,1567,Evening Peak,Snowy,Highway,High,No,Sunday,Uptown Business
+TRIP-1310,4.6,7.7,46.6,676,Off-Peak,Clear,Collector,Low,No,Tuesday,Uptown Business
+TRIP-1311,9.5,30.4,20.9,2550,Evening Peak,Foggy,Arterial,Severe,No,Monday,Industrial Park
+TRIP-1312,10.1,55.4,12,2526,Evening Peak,Snowy,Collector,Severe,No,Friday,Downtown Core
+TRIP-1313,16,57.3,24.1,2057,Evening Peak,Snowy,Highway,Severe,Yes,Thursday,Suburban Ring
+TRIP-1314,2,3.1,35.6,675,Off-Peak,Clear,Urban Local,Low,No,Wednesday,Uptown Business
+TRIP-1315,10.6,45.7,15.3,2327,Morning Peak,Clear,Collector,Severe,No,Sunday,Downtown Core
+TRIP-1316,2.5,3,37.7,955,Off-Peak,Clear,Collector,Moderate,No,Tuesday,Downtown Core
+TRIP-1317,5.8,23.1,19.3,1982,Morning Peak,Clear,Urban Local,High,No,Thursday,Uptown Business
+TRIP-1318,7.1,14.3,39.9,1824,Morning Peak,Clear,Arterial,High,No,Friday,Uptown Business
+TRIP-1319,36.8,54.5,52.9,1176,Off-Peak,Snowy,Highway,Moderate,Yes,Tuesday,Downtown Core
+TRIP-1320,3.6,4.9,46.2,992,Off-Peak,Rainy,Arterial,Moderate,No,Monday,Industrial Park
+TRIP-1321,2.5,5.1,46.6,472,Off-Peak,Rainy,Collector,Low,No,Thursday,Suburban Ring
+TRIP-1322,4,23,13.5,1979,Evening Peak,Clear,Urban Local,High,No,Friday,Suburban Ring
+TRIP-1323,1.6,3.4,24,1073,Off-Peak,Clear,Urban Local,Moderate,No,Monday,Downtown Core
+TRIP-1324,6.6,36.9,12,1576,Evening Peak,Clear,Urban Local,High,No,Wednesday,Uptown Business
+TRIP-1325,15.6,21.6,56.8,1464,Evening Peak,Clear,Arterial,Moderate,No,Tuesday,Downtown Core
+TRIP-1326,12.6,16.1,57.6,2910,Morning Peak,Clear,Highway,Severe,No,Tuesday,Suburban Ring
+TRIP-1327,1.9,14.3,12,1561,Evening Peak,Snowy,Urban Local,High,No,Tuesday,Uptown Business
+TRIP-1328,37.5,26.5,79.6,988,Off-Peak,Clear,Highway,Moderate,No,Friday,Uptown Business
+TRIP-1329,4.8,19.4,19.1,1538,Evening Peak,Clear,Urban Local,High,No,Wednesday,Uptown Business
+TRIP-1330,6.1,9.9,40.6,998,Off-Peak,Clear,Collector,Moderate,No,Tuesday,Downtown Core
+TRIP-1331,6,35.1,12,2168,Evening Peak,Snowy,Collector,Severe,No,Sunday,Uptown Business
+TRIP-1332,8.3,45.6,12,1793,Morning Peak,Rainy,Collector,Severe,No,Friday,Downtown Core
+TRIP-1333,9.6,10.1,49.5,534,Off-Peak,Clear,Collector,Low,No,Saturday,Uptown Business
+TRIP-1334,40.4,52.4,48.5,2370,Morning Peak,Rainy,Highway,Severe,No,Thursday,Uptown Business
+TRIP-1335,14.7,17.4,71.4,1722,Morning Peak,Clear,Highway,High,No,Friday,Industrial Park
+TRIP-1336,9.5,13.7,55.1,1304,Evening Peak,Clear,Arterial,Moderate,No,Sunday,Suburban Ring
+TRIP-1337,9.3,14.1,42.7,944,Off-Peak,Clear,Collector,Moderate,No,Tuesday,Downtown Core
+TRIP-1338,3.2,8.1,29.6,472,Off-Peak,Foggy,Urban Local,Low,No,Friday,Uptown Business
+TRIP-1339,4.8,8.5,29.8,1053,Off-Peak,Rainy,Collector,Moderate,No,Wednesday,Industrial Park
+TRIP-1340,4.8,28.4,12,2213,Morning Peak,Clear,Urban Local,Severe,No,Sunday,Suburban Ring
+TRIP-1341,4.2,21.2,14.8,2525,Morning Peak,Snowy,Arterial,Severe,No,Tuesday,Uptown Business
+TRIP-1342,7.4,15.1,42.8,1602,Evening Peak,Clear,Arterial,High,No,Monday,Downtown Core
+TRIP-1343,4,8.5,24.2,975,Off-Peak,Rainy,Urban Local,Moderate,No,Sunday,Industrial Park
+TRIP-1344,10.6,74.8,12,2208,Morning Peak,Rainy,Collector,Severe,Yes,Sunday,Uptown Business
+TRIP-1345,43.1,32.9,82.2,1298,Off-Peak,Clear,Highway,Moderate,No,Tuesday,Uptown Business
+TRIP-1346,9.8,53.9,12,2281,Morning Peak,Snowy,Collector,Severe,No,Sunday,Industrial Park
+TRIP-1347,4.5,16.5,24,1685,Morning Peak,Clear,Collector,High,No,Monday,Suburban Ring
+TRIP-1348,14.9,22.2,44.5,1587,Morning Peak,Clear,Arterial,High,No,Tuesday,Suburban Ring
+TRIP-1349,10.5,18.8,34,1038,Off-Peak,Rainy,Collector,Moderate,No,Tuesday,Downtown Core
+TRIP-1350,3.2,8.8,27.5,926,Off-Peak,Clear,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1351,4.5,6.2,33.9,475,Off-Peak,Rainy,Urban Local,Low,No,Thursday,Uptown Business
+TRIP-1352,16.1,20.4,68.5,1926,Evening Peak,Clear,Highway,High,No,Wednesday,Downtown Core
+TRIP-1353,6.8,37.5,12,2000,Morning Peak,Rainy,Urban Local,Severe,No,Friday,Industrial Park
+TRIP-1354,13.9,55.9,15.6,2978,Morning Peak,Foggy,Arterial,Severe,No,Monday,Downtown Core
+TRIP-1355,13.2,9.2,70.6,1235,Off-Peak,Rainy,Highway,Moderate,No,Monday,Downtown Core
+TRIP-1356,22.6,44,53.2,1295,Off-Peak,Snowy,Highway,Moderate,Yes,Saturday,Uptown Business
+TRIP-1357,10.9,16,41.9,791,Off-Peak,Rainy,Collector,Low,No,Friday,Industrial Park
+TRIP-1358,10.4,54.8,12,2038,Morning Peak,Rainy,Collector,Severe,No,Thursday,Suburban Ring
+TRIP-1359,10,30.4,22,2321,Morning Peak,Rainy,Arterial,Severe,No,Thursday,Downtown Core
+TRIP-1360,15,18.6,51.5,1032,Off-Peak,Rainy,Arterial,Moderate,No,Wednesday,Industrial Park
+TRIP-1361,10.8,45.2,16.7,2287,Evening Peak,Clear,Collector,Severe,No,Sunday,Suburban Ring
+TRIP-1362,7.2,36.2,13.1,1606,Evening Peak,Clear,Urban Local,High,No,Tuesday,Uptown Business
+TRIP-1363,34.2,35.8,69.3,1498,Evening Peak,Foggy,Highway,Moderate,No,Sunday,Industrial Park
+TRIP-1364,27.1,29.3,69.3,2160,Evening Peak,Clear,Highway,High,No,Saturday,Downtown Core
+TRIP-1365,4.9,4.7,49.8,663,Off-Peak,Foggy,Arterial,Low,No,Saturday,Suburban Ring
+TRIP-1366,3.1,3,54.3,442,Off-Peak,Foggy,Arterial,Low,No,Sunday,Suburban Ring
+TRIP-1367,9.2,15.9,37.9,999,Off-Peak,Clear,Collector,Moderate,No,Friday,Downtown Core
+TRIP-1368,2.9,4.6,51.1,401,Off-Peak,Clear,Collector,Low,No,Thursday,Suburban Ring
+TRIP-1369,3.5,3.6,42.6,430,Off-Peak,Rainy,Collector,Low,No,Saturday,Uptown Business
+TRIP-1370,5.4,18,24.9,1418,Evening Peak,Clear,Urban Local,Moderate,No,Saturday,Uptown Business
+TRIP-1371,6.4,37.5,12,2765,Evening Peak,Snowy,Urban Local,Severe,No,Thursday,Uptown Business
+TRIP-1372,13.6,16.8,51.3,573,Off-Peak,Snowy,Arterial,Low,No,Sunday,Uptown Business
+TRIP-1373,5.7,33.2,12,1908,Evening Peak,Snowy,Urban Local,Severe,No,Saturday,Industrial Park
+TRIP-1374,2.8,3,46.5,549,Off-Peak,Rainy,Collector,Low,No,Sunday,Suburban Ring
+TRIP-1375,8.2,20.2,30.4,1453,Evening Peak,Rainy,Collector,Moderate,No,Saturday,Suburban Ring
+TRIP-1376,2.4,6.7,37.3,1407,Morning Peak,Clear,Collector,Moderate,No,Tuesday,Industrial Park
+TRIP-1377,41.5,50.9,53.2,2721,Morning Peak,Clear,Highway,Severe,No,Wednesday,Downtown Core
+TRIP-1378,1.9,12.5,17,1723,Evening Peak,Clear,Urban Local,High,No,Friday,Suburban Ring
+TRIP-1379,4,11.8,19.7,983,Off-Peak,Rainy,Urban Local,Moderate,No,Sunday,Industrial Park
+TRIP-1380,8.8,12.6,48.5,616,Off-Peak,Clear,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-1381,10.6,17.5,37.1,1442,Off-Peak,Clear,Collector,Moderate,No,Sunday,Downtown Core
+TRIP-1382,13.1,29.9,29.3,2803,Evening Peak,Clear,Arterial,Severe,No,Wednesday,Downtown Core
+TRIP-1383,41.1,49.3,52.8,2257,Morning Peak,Clear,Highway,Severe,No,Sunday,Industrial Park
+TRIP-1384,2.5,3,34,1071,Off-Peak,Rainy,Collector,Moderate,No,Thursday,Suburban Ring
+TRIP-1385,11.3,11,68.7,729,Off-Peak,Clear,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-1386,43.6,64.7,42.9,1769,Evening Peak,Snowy,Highway,Severe,No,Tuesday,Suburban Ring
+TRIP-1387,3.8,12.9,25.3,2667,Morning Peak,Rainy,Arterial,Severe,No,Monday,Suburban Ring
+TRIP-1388,7.4,13.3,33.7,808,Off-Peak,Rainy,Urban Local,Low,No,Tuesday,Uptown Business
+TRIP-1389,39.7,38.4,67.7,1889,Morning Peak,Clear,Highway,High,No,Monday,Suburban Ring
+TRIP-1390,18.1,15.5,70.6,1201,Off-Peak,Rainy,Highway,Moderate,No,Friday,Uptown Business
+TRIP-1391,8.4,45.7,12,2691,Evening Peak,Snowy,Collector,Severe,No,Wednesday,Downtown Core
+TRIP-1392,22.2,17.2,72.6,1443,Off-Peak,Rainy,Highway,Moderate,No,Thursday,Suburban Ring
+TRIP-1393,2.2,7.7,31.1,1976,Evening Peak,Clear,Collector,High,No,Thursday,Uptown Business
+TRIP-1394,5.4,9.3,41.8,857,Off-Peak,Clear,Urban Local,Low,No,Saturday,Industrial Park
+TRIP-1395,2.9,20.6,12,2712,Evening Peak,Foggy,Collector,Severe,No,Thursday,Downtown Core
+TRIP-1396,16.7,22.5,47.6,503,Off-Peak,Snowy,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-1397,4.3,19.3,45.7,411,Off-Peak,Rainy,Arterial,Low,Yes,Sunday,Industrial Park
+TRIP-1398,5.3,26,12,934,Off-Peak,Snowy,Urban Local,Moderate,No,Sunday,Industrial Park
+TRIP-1399,35,35.6,69.9,1846,Evening Peak,Clear,Highway,High,No,Saturday,Industrial Park
+TRIP-1400,6.4,9.3,46.8,506,Off-Peak,Rainy,Collector,Low,No,Sunday,Uptown Business
+TRIP-1401,28.9,22.8,78.8,1366,Off-Peak,Clear,Highway,Moderate,No,Friday,Industrial Park
+TRIP-1402,2.4,16.6,12.4,2903,Evening Peak,Clear,Collector,Severe,No,Thursday,Downtown Core
+TRIP-1403,4.5,35.3,12,1029,Off-Peak,Rainy,Urban Local,Moderate,Yes,Friday,Industrial Park
+TRIP-1404,5.8,7.1,42.6,787,Off-Peak,Rainy,Collector,Low,No,Monday,Suburban Ring
+TRIP-1405,2.2,8.4,26.6,1404,Evening Peak,Clear,Urban Local,Moderate,No,Wednesday,Suburban Ring
+TRIP-1406,10.7,15.8,45.7,1022,Off-Peak,Rainy,Arterial,Moderate,No,Sunday,Downtown Core
+TRIP-1407,26.3,23.7,65.9,1628,Off-Peak,Clear,Highway,High,No,Friday,Downtown Core
+TRIP-1408,9,66.9,12,1735,Evening Peak,Rainy,Collector,Severe,Yes,Friday,Suburban Ring
+TRIP-1409,43.3,47.6,58.4,2670,Morning Peak,Clear,Highway,Severe,No,Wednesday,Uptown Business
+TRIP-1410,43.7,41.6,62.9,1199,Off-Peak,Snowy,Highway,Moderate,No,Wednesday,Suburban Ring
+TRIP-1411,11.5,10.7,58.8,1102,Off-Peak,Clear,Arterial,Moderate,No,Saturday,Industrial Park
+TRIP-1412,4.1,25.3,12,2322,Evening Peak,Foggy,Collector,Severe,No,Monday,Downtown Core
+TRIP-1413,29.9,25.2,72.8,1090,Off-Peak,Rainy,Highway,Moderate,No,Monday,Uptown Business
+TRIP-1414,8.4,13.9,31.8,996,Off-Peak,Foggy,Collector,Moderate,No,Monday,Industrial Park
+TRIP-1415,15.4,23.3,45.2,1986,Evening Peak,Clear,Arterial,High,No,Monday,Suburban Ring
+TRIP-1416,6.8,32.1,14.3,2193,Evening Peak,Clear,Urban Local,High,No,Saturday,Industrial Park
+TRIP-1417,10.9,13.2,54.4,740,Off-Peak,Foggy,Arterial,Low,No,Wednesday,Uptown Business
+TRIP-1418,9.4,49.5,12,2372,Morning Peak,Foggy,Collector,Severe,No,Sunday,Suburban Ring
+TRIP-1419,17.6,19.7,68.6,2125,Morning Peak,Clear,Highway,High,No,Friday,Uptown Business
+TRIP-1420,6.9,17.4,28.3,1976,Evening Peak,Clear,Collector,High,No,Wednesday,Industrial Park
+TRIP-1421,12.4,16.9,44.7,1099,Off-Peak,Rainy,Arterial,Moderate,No,Tuesday,Industrial Park
+TRIP-1422,1,7.7,12,2351,Evening Peak,Foggy,Urban Local,Severe,No,Thursday,Suburban Ring
+TRIP-1423,20.4,30.8,44.7,2095,Evening Peak,Foggy,Highway,Severe,No,Wednesday,Industrial Park
+TRIP-1424,7.2,8.4,50.5,745,Off-Peak,Foggy,Arterial,Low,No,Saturday,Industrial Park
+TRIP-1425,15.7,15,57.3,1487,Off-Peak,Clear,Arterial,Moderate,No,Wednesday,Downtown Core
+TRIP-1426,40.5,49.7,54.6,2317,Evening Peak,Clear,Highway,Severe,No,Friday,Suburban Ring
+TRIP-1427,15.6,29,39,2153,Evening Peak,Clear,Arterial,High,No,Thursday,Suburban Ring
+TRIP-1428,26.4,24.2,65.6,1045,Off-Peak,Foggy,Highway,Moderate,No,Tuesday,Suburban Ring
+TRIP-1429,12,31.7,24.9,2414,Morning Peak,Rainy,Arterial,Severe,No,Friday,Downtown Core
+TRIP-1430,16.5,20,52.9,1482,Off-Peak,Clear,Arterial,Moderate,No,Monday,Downtown Core
+TRIP-1431,15.1,14.7,54.5,903,Off-Peak,Clear,Arterial,Moderate,No,Thursday,Industrial Park
+TRIP-1432,32,43.7,48.8,2021,Evening Peak,Rainy,Highway,Severe,No,Friday,Suburban Ring
+TRIP-1433,18.1,29,45.1,2425,Morning Peak,Rainy,Highway,Severe,No,Tuesday,Industrial Park
+TRIP-1434,4.7,7,51.2,974,Off-Peak,Clear,Arterial,Moderate,No,Monday,Downtown Core
+TRIP-1435,8.4,12.9,45.7,435,Off-Peak,Rainy,Collector,Low,No,Friday,Suburban Ring
+TRIP-1436,7.8,26.2,19.6,1501,Morning Peak,Foggy,Collector,High,No,Friday,Industrial Park
+TRIP-1437,5.9,10.5,29.6,611,Off-Peak,Rainy,Urban Local,Low,No,Monday,Suburban Ring
+TRIP-1438,5.8,31,12,2613,Morning Peak,Rainy,Collector,Severe,No,Friday,Downtown Core
+TRIP-1439,12.9,22.6,42.2,1770,Evening Peak,Foggy,Highway,Severe,No,Thursday,Industrial Park
+TRIP-1440,15.1,12.4,65.2,549,Off-Peak,Clear,Arterial,Low,No,Sunday,Suburban Ring
+TRIP-1441,16.7,31.9,38.2,1660,Evening Peak,Rainy,Arterial,High,No,Thursday,Suburban Ring
+TRIP-1442,41,27.2,90.9,808,Off-Peak,Clear,Highway,Low,No,Thursday,Suburban Ring
+TRIP-1443,31.4,40.4,50.6,2229,Morning Peak,Rainy,Highway,Severe,No,Tuesday,Uptown Business
+TRIP-1444,17.4,23.1,51.7,2515,Evening Peak,Clear,Highway,Severe,No,Monday,Industrial Park
+TRIP-1445,15.9,56.7,17.9,1714,Evening Peak,Foggy,Arterial,Severe,No,Saturday,Suburban Ring
+TRIP-1446,12.7,17.1,57.5,2460,Morning Peak,Clear,Highway,Severe,No,Friday,Downtown Core
+TRIP-1447,4.7,10.2,29.1,474,Off-Peak,Foggy,Urban Local,Low,No,Friday,Suburban Ring
+TRIP-1448,4.7,25.4,12,2128,Morning Peak,Snowy,Urban Local,Severe,No,Tuesday,Suburban Ring
+TRIP-1449,8,11.8,45.9,1343,Off-Peak,Foggy,Arterial,Moderate,No,Sunday,Downtown Core
+TRIP-1450,26,43,40.1,2094,Evening Peak,Snowy,Highway,Severe,No,Saturday,Uptown Business
+TRIP-1451,13.9,16.4,68.8,1707,Morning Peak,Clear,Highway,High,No,Saturday,Uptown Business
+TRIP-1452,1.9,6.2,20.5,946,Off-Peak,Rainy,Urban Local,Moderate,No,Sunday,Downtown Core
+TRIP-1453,3.8,13.7,27.6,1688,Morning Peak,Clear,Collector,High,No,Tuesday,Suburban Ring
+TRIP-1454,4.3,4.1,50.7,477,Off-Peak,Clear,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-1455,20.1,33.8,43.9,2448,Evening Peak,Foggy,Highway,Severe,No,Saturday,Suburban Ring
+TRIP-1456,15.9,24.8,41.2,1347,Off-Peak,Foggy,Arterial,Moderate,No,Thursday,Downtown Core
+TRIP-1457,29,41.3,45.3,2109,Morning Peak,Rainy,Highway,Severe,No,Sunday,Downtown Core
+TRIP-1458,7.9,56.6,12,2325,Morning Peak,Rainy,Collector,Severe,Yes,Thursday,Industrial Park
+TRIP-1459,4,24.2,12,2040,Morning Peak,Foggy,Collector,Severe,No,Sunday,Downtown Core
+TRIP-1460,5.7,32.5,12,1538,Morning Peak,Rainy,Urban Local,High,No,Saturday,Industrial Park
+TRIP-1461,4.2,12.1,18.9,772,Off-Peak,Snowy,Urban Local,Low,No,Saturday,Suburban Ring
+TRIP-1462,28.9,23.7,70.8,1639,Off-Peak,Clear,Highway,High,No,Wednesday,Downtown Core
+TRIP-1463,14.6,14.8,55.2,529,Off-Peak,Rainy,Arterial,Low,No,Monday,Industrial Park
+TRIP-1464,3,17.3,14,2688,Evening Peak,Clear,Collector,Severe,No,Tuesday,Downtown Core
+TRIP-1465,17.6,53,22.1,2231,Morning Peak,Rainy,Arterial,Severe,No,Wednesday,Industrial Park
+TRIP-1466,25.8,38.4,45.8,2602,Evening Peak,Rainy,Highway,Severe,No,Sunday,Industrial Park
+TRIP-1467,1,4.4,12,957,Off-Peak,Snowy,Urban Local,Moderate,No,Saturday,Industrial Park
+TRIP-1468,4.7,14.7,25.3,2060,Morning Peak,Clear,Collector,High,No,Thursday,Industrial Park
+TRIP-1469,17.9,42.6,27.1,2497,Morning Peak,Clear,Arterial,Severe,No,Friday,Downtown Core
+TRIP-1470,6,22.1,21.9,1444,Evening Peak,Rainy,Urban Local,Moderate,No,Saturday,Suburban Ring
+TRIP-1471,7.4,20.3,23.6,1312,Off-Peak,Rainy,Urban Local,Moderate,No,Monday,Downtown Core
+TRIP-1472,9.4,14.8,43.7,1320,Off-Peak,Clear,Collector,Moderate,No,Monday,Downtown Core
+TRIP-1473,7.4,17,27.3,915,Off-Peak,Clear,Urban Local,Moderate,No,Sunday,Industrial Park
+TRIP-1474,14.8,47.9,20.7,1933,Morning Peak,Rainy,Arterial,Severe,No,Saturday,Suburban Ring
+TRIP-1475,6.3,19,24.5,1931,Morning Peak,Clear,Collector,High,No,Monday,Uptown Business
+TRIP-1476,20,15.5,76.4,1162,Off-Peak,Clear,Highway,Moderate,No,Friday,Uptown Business
+TRIP-1477,9.3,12.5,49.2,854,Off-Peak,Clear,Collector,Low,No,Thursday,Suburban Ring
+TRIP-1478,2.5,17.2,12,2492,Morning Peak,Foggy,Collector,Severe,No,Thursday,Suburban Ring
+TRIP-1479,38.7,62.7,39.2,2339,Morning Peak,Snowy,Highway,Severe,No,Friday,Downtown Core
+TRIP-1480,28.9,86,27.5,2260,Morning Peak,Foggy,Highway,Severe,Yes,Thursday,Industrial Park
+TRIP-1481,14.7,90.1,12,1882,Evening Peak,Foggy,Arterial,Severe,Yes,Tuesday,Uptown Business
+TRIP-1482,30.3,39,49.5,1945,Morning Peak,Rainy,Highway,Severe,No,Monday,Industrial Park
+TRIP-1483,32.6,49.5,44.1,2516,Morning Peak,Rainy,Highway,Severe,No,Tuesday,Industrial Park
+TRIP-1484,5,49,12,2652,Evening Peak,Clear,Urban Local,Severe,Yes,Sunday,Uptown Business
+TRIP-1485,9.9,55.4,12,2233,Evening Peak,Snowy,Collector,Severe,No,Thursday,Industrial Park
+TRIP-1486,9.7,11.1,46.3,573,Off-Peak,Rainy,Collector,Low,No,Monday,Industrial Park
+TRIP-1487,4,16.7,13.2,1096,Off-Peak,Snowy,Urban Local,Moderate,No,Wednesday,Uptown Business
+TRIP-1488,3.7,17.3,14.9,2072,Morning Peak,Clear,Urban Local,High,No,Thursday,Uptown Business
+TRIP-1489,10.6,11.2,61.1,670,Off-Peak,Clear,Arterial,Low,No,Saturday,Industrial Park
+TRIP-1490,3.7,8.4,26.9,904,Off-Peak,Clear,Urban Local,Moderate,No,Tuesday,Suburban Ring
+TRIP-1491,5,21.4,15.3,951,Off-Peak,Snowy,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1492,3,17.6,12,1914,Evening Peak,Rainy,Collector,Severe,No,Saturday,Industrial Park
+TRIP-1493,4,17.1,16.9,1836,Morning Peak,Clear,Urban Local,High,No,Thursday,Suburban Ring
+TRIP-1494,3.8,6.4,36.1,991,Off-Peak,Clear,Collector,Moderate,No,Monday,Uptown Business
+TRIP-1495,5.2,29.7,13.2,1499,Evening Peak,Foggy,Urban Local,Moderate,No,Friday,Suburban Ring
+TRIP-1496,16.2,16.7,54.9,564,Off-Peak,Foggy,Arterial,Low,No,Saturday,Suburban Ring
+TRIP-1497,9.5,27.5,24.7,1878,Morning Peak,Clear,Collector,High,No,Sunday,Suburban Ring
+TRIP-1498,2,12,15.3,1880,Evening Peak,Clear,Urban Local,High,No,Thursday,Industrial Park
+TRIP-1499,40.3,35.3,66.4,1248,Off-Peak,Foggy,Highway,Moderate,No,Wednesday,Suburban Ring
+TRIP-1500,42.8,91.7,38.7,2451,Morning Peak,Clear,Highway,Severe,Yes,Saturday,Suburban Ring
+TRIP-1501,17.8,16.9,60.9,761,Off-Peak,Rainy,Arterial,Low,No,Tuesday,Uptown Business
+TRIP-1502,15.7,26.2,41.9,1405,Morning Peak,Snowy,Arterial,Moderate,No,Wednesday,Uptown Business
+TRIP-1503,14,14.1,61.2,421,Off-Peak,Rainy,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-1504,2.9,10.2,26.3,2169,Morning Peak,Clear,Collector,High,No,Saturday,Industrial Park
+TRIP-1505,6.9,30.3,15.8,2079,Evening Peak,Clear,Urban Local,High,No,Saturday,Downtown Core
+TRIP-1506,12.4,37.7,22.4,2075,Evening Peak,Rainy,Arterial,Severe,No,Thursday,Uptown Business
+TRIP-1507,7.6,7.3,68.4,550,Off-Peak,Clear,Arterial,Low,No,Saturday,Uptown Business
+TRIP-1508,13.7,24.5,43.6,1531,Evening Peak,Clear,Arterial,High,No,Sunday,Suburban Ring
+TRIP-1509,12,9.6,76.9,1448,Off-Peak,Clear,Highway,Moderate,No,Tuesday,Suburban Ring
+TRIP-1510,41.4,48.7,54.2,2921,Morning Peak,Clear,Highway,Severe,No,Friday,Suburban Ring
+TRIP-1511,12.8,23.4,42,2135,Morning Peak,Foggy,Highway,Severe,No,Sunday,Industrial Park
+TRIP-1512,2.8,19.4,12,2352,Evening Peak,Rainy,Urban Local,Severe,No,Saturday,Downtown Core
+TRIP-1513,16.7,20,45.6,1099,Off-Peak,Rainy,Arterial,Moderate,No,Saturday,Industrial Park
+TRIP-1514,17,31.8,36.5,2713,Morning Peak,Snowy,Highway,Severe,No,Saturday,Downtown Core
+TRIP-1515,5.7,10.4,40.2,425,Off-Peak,Clear,Urban Local,Low,No,Sunday,Industrial Park
+TRIP-1516,8.7,10.8,51.1,559,Off-Peak,Clear,Collector,Low,No,Wednesday,Uptown Business
+TRIP-1517,13.6,22,42.2,1881,Evening Peak,Clear,Arterial,High,No,Monday,Industrial Park
+TRIP-1518,35.7,34.8,63.6,1414,Off-Peak,Snowy,Highway,Moderate,No,Sunday,Suburban Ring
+TRIP-1519,11.5,19.2,35.4,1325,Off-Peak,Snowy,Arterial,Moderate,No,Monday,Downtown Core
+TRIP-1520,17.4,22,53.7,1362,Morning Peak,Clear,Arterial,Moderate,No,Saturday,Industrial Park
+TRIP-1521,4.8,15.7,20.7,1099,Off-Peak,Snowy,Collector,Moderate,No,Monday,Downtown Core
+TRIP-1522,5.4,6.7,41.5,778,Off-Peak,Foggy,Collector,Low,No,Monday,Industrial Park
+TRIP-1523,7.5,8.9,47.8,605,Off-Peak,Clear,Collector,Low,No,Sunday,Uptown Business
+TRIP-1524,5.3,21.6,18.9,1611,Evening Peak,Rainy,Collector,High,No,Tuesday,Uptown Business
+TRIP-1525,31.7,24.2,76.3,1290,Off-Peak,Rainy,Highway,Moderate,No,Monday,Downtown Core
+TRIP-1526,26.6,47.6,36.9,2598,Evening Peak,Snowy,Highway,Severe,No,Tuesday,Industrial Park
+TRIP-1527,43.4,60.7,44.7,1792,Morning Peak,Foggy,Highway,Severe,No,Friday,Suburban Ring
+TRIP-1528,37.2,30.2,73.6,1288,Off-Peak,Rainy,Highway,Moderate,No,Saturday,Industrial Park
+TRIP-1529,37.2,66.9,35.4,2160,Morning Peak,Snowy,Highway,Severe,No,Saturday,Downtown Core
+TRIP-1530,6,19.4,20.6,1136,Off-Peak,Rainy,Urban Local,Moderate,No,Thursday,Downtown Core
+TRIP-1531,2.5,34.7,12,1850,Evening Peak,Snowy,Collector,Severe,Yes,Saturday,Industrial Park
+TRIP-1532,17.1,44.4,41.1,1421,Evening Peak,Clear,Arterial,Moderate,Yes,Wednesday,Industrial Park
+TRIP-1533,28.2,49.9,35.9,2387,Morning Peak,Snowy,Highway,Severe,No,Monday,Industrial Park
+TRIP-1534,29.4,65.2,39.5,2419,Morning Peak,Clear,Highway,Severe,Yes,Sunday,Uptown Business
+TRIP-1535,10.4,19.8,34.6,1433,Morning Peak,Rainy,Collector,Moderate,No,Friday,Suburban Ring
+TRIP-1536,8,27,23.1,1671,Evening Peak,Rainy,Collector,High,No,Thursday,Uptown Business
+TRIP-1537,7.1,11.3,38.3,1481,Off-Peak,Clear,Collector,Moderate,No,Friday,Downtown Core
+TRIP-1538,7.2,12.2,38,673,Off-Peak,Clear,Urban Local,Low,No,Tuesday,Suburban Ring
+TRIP-1539,3.5,9.5,26.3,1982,Morning Peak,Rainy,Arterial,Severe,No,Wednesday,Downtown Core
+TRIP-1540,3.8,15.5,17.6,1591,Morning Peak,Rainy,Collector,High,No,Saturday,Industrial Park
+TRIP-1541,7.8,58.6,12,1714,Evening Peak,Rainy,Collector,Severe,Yes,Sunday,Downtown Core
+TRIP-1542,11.6,19.8,41.4,1699,Evening Peak,Clear,Arterial,High,No,Monday,Uptown Business
+TRIP-1543,4.2,9.1,35,591,Off-Peak,Clear,Urban Local,Low,No,Sunday,Industrial Park
+TRIP-1544,3.4,5.2,35.1,529,Off-Peak,Clear,Urban Local,Low,No,Thursday,Uptown Business
+TRIP-1545,3.8,37.1,12,2127,Morning Peak,Snowy,Urban Local,Severe,Yes,Tuesday,Suburban Ring
+TRIP-1546,8.2,45.6,12,2396,Evening Peak,Rainy,Collector,Severe,No,Thursday,Industrial Park
+TRIP-1547,36.4,35.3,70.3,1940,Evening Peak,Clear,Highway,High,No,Monday,Industrial Park
+TRIP-1548,2,3,48.4,856,Off-Peak,Clear,Collector,Low,No,Sunday,Suburban Ring
+TRIP-1549,6.3,12,36.9,845,Off-Peak,Foggy,Collector,Low,No,Friday,Uptown Business
+TRIP-1550,2.9,3,38.4,774,Off-Peak,Clear,Urban Local,Low,No,Thursday,Industrial Park
+TRIP-1551,10.8,10.5,61,610,Off-Peak,Rainy,Arterial,Low,No,Monday,Industrial Park
+TRIP-1552,8.6,15.7,37,515,Off-Peak,Foggy,Collector,Low,No,Thursday,Industrial Park
+TRIP-1553,6.5,56.2,12,2265,Evening Peak,Clear,Urban Local,Severe,Yes,Saturday,Uptown Business
+TRIP-1554,29.2,33.8,54.2,1541,Off-Peak,Snowy,Highway,High,No,Sunday,Industrial Park
+TRIP-1555,22,23.7,55.1,1671,Off-Peak,Snowy,Highway,High,No,Thursday,Downtown Core
+TRIP-1556,9.1,50.2,12,2569,Evening Peak,Rainy,Collector,Severe,No,Sunday,Suburban Ring
+TRIP-1557,4.7,8.3,40.4,495,Off-Peak,Clear,Urban Local,Low,No,Saturday,Uptown Business
+TRIP-1558,32,29.3,68.7,980,Off-Peak,Foggy,Highway,Moderate,No,Sunday,Suburban Ring
+TRIP-1559,11.2,39.5,19.3,2364,Morning Peak,Foggy,Arterial,Severe,No,Tuesday,Suburban Ring
+TRIP-1560,6.3,24,18.9,2017,Evening Peak,Clear,Urban Local,High,No,Monday,Uptown Business
+TRIP-1561,6.8,37.6,12,2235,Evening Peak,Clear,Urban Local,Severe,No,Tuesday,Downtown Core
+TRIP-1562,14.5,27.1,37.1,2203,Morning Peak,Snowy,Highway,Severe,No,Monday,Uptown Business
+TRIP-1563,5.3,33.5,22.8,642,Off-Peak,Snowy,Collector,Low,Yes,Sunday,Uptown Business
+TRIP-1564,19.5,11.2,91.8,820,Off-Peak,Clear,Highway,Low,No,Thursday,Industrial Park
+TRIP-1565,19.2,14.9,71.6,1323,Off-Peak,Rainy,Highway,Moderate,No,Saturday,Downtown Core
+TRIP-1566,6.9,11.4,34,869,Off-Peak,Rainy,Urban Local,Low,No,Wednesday,Downtown Core
+TRIP-1567,6.7,36.3,12,2230,Evening Peak,Foggy,Urban Local,Severe,No,Thursday,Downtown Core
+TRIP-1568,2.7,17.2,12,2263,Morning Peak,Foggy,Urban Local,Severe,No,Saturday,Industrial Park
+TRIP-1569,15.8,28.8,35.8,1621,Morning Peak,Rainy,Arterial,High,No,Sunday,Downtown Core
+TRIP-1570,3.9,3,66,591,Off-Peak,Clear,Arterial,Low,No,Friday,Industrial Park
+TRIP-1571,12.5,26.8,32.1,1567,Morning Peak,Rainy,Arterial,High,No,Wednesday,Suburban Ring
+TRIP-1572,28.5,39.3,46.1,2772,Morning Peak,Rainy,Highway,Severe,No,Tuesday,Downtown Core
+TRIP-1573,6.7,20.8,24.9,1943,Evening Peak,Clear,Collector,High,No,Wednesday,Suburban Ring
+TRIP-1574,3.3,20,12,1932,Morning Peak,Snowy,Urban Local,Severe,No,Saturday,Suburban Ring
+TRIP-1575,5.1,5.7,55.3,721,Off-Peak,Rainy,Arterial,Low,No,Saturday,Industrial Park
+TRIP-1576,7.2,38.3,12,2495,Morning Peak,Rainy,Urban Local,Severe,No,Wednesday,Uptown Business
+TRIP-1577,5.6,11.9,26.2,1032,Off-Peak,Snowy,Collector,Moderate,No,Monday,Uptown Business
+TRIP-1578,12.9,42.5,38.3,2898,Morning Peak,Clear,Highway,Severe,Yes,Sunday,Suburban Ring
+TRIP-1579,7.1,20.2,26.6,1777,Evening Peak,Clear,Collector,High,No,Sunday,Downtown Core
+TRIP-1580,2,27.1,12,1962,Morning Peak,Clear,Urban Local,High,Yes,Sunday,Downtown Core
+TRIP-1581,16,17.7,53.1,1142,Off-Peak,Clear,Arterial,Moderate,No,Friday,Uptown Business
+TRIP-1582,6.3,9.2,39.4,558,Off-Peak,Rainy,Collector,Low,No,Saturday,Industrial Park
+TRIP-1583,10.6,29.4,26,1513,Morning Peak,Clear,Collector,High,No,Thursday,Suburban Ring
+TRIP-1584,8.5,17.6,37,1684,Morning Peak,Rainy,Arterial,High,No,Saturday,Industrial Park
+TRIP-1585,7.7,20.8,29.6,1904,Evening Peak,Clear,Collector,High,No,Monday,Suburban Ring
+TRIP-1586,7.9,47.7,20.5,1345,Morning Peak,Rainy,Collector,Moderate,Yes,Wednesday,Downtown Core
+TRIP-1587,7.7,7.8,67.7,697,Off-Peak,Clear,Arterial,Low,No,Tuesday,Industrial Park
+TRIP-1588,4.9,43.7,12,2298,Evening Peak,Foggy,Urban Local,Severe,Yes,Friday,Downtown Core
+TRIP-1589,16.4,53.3,19.9,2134,Morning Peak,Rainy,Arterial,Severe,No,Sunday,Suburban Ring
+TRIP-1590,14.7,19.3,54.7,2371,Morning Peak,Clear,Highway,Severe,No,Monday,Suburban Ring
+TRIP-1591,12.7,14.5,49.6,419,Off-Peak,Snowy,Arterial,Low,No,Tuesday,Suburban Ring
+TRIP-1592,34.2,53.5,41.9,2818,Evening Peak,Snowy,Highway,Severe,No,Tuesday,Suburban Ring
+TRIP-1593,1.7,12.1,14.5,1692,Evening Peak,Clear,Urban Local,High,No,Sunday,Suburban Ring
+TRIP-1594,4.5,8.9,36.5,708,Off-Peak,Clear,Urban Local,Low,No,Sunday,Uptown Business
+TRIP-1595,7.7,8.5,54.5,1044,Off-Peak,Clear,Arterial,Moderate,No,Friday,Uptown Business
+TRIP-1596,5,25.5,12,912,Off-Peak,Snowy,Urban Local,Moderate,No,Tuesday,Suburban Ring
+TRIP-1597,2,12.5,12.4,1813,Evening Peak,Clear,Urban Local,High,No,Friday,Suburban Ring
+TRIP-1598,8.1,45.3,12,2582,Evening Peak,Rainy,Collector,Severe,No,Saturday,Downtown Core
+TRIP-1599,15.1,32.6,33.2,2347,Evening Peak,Clear,Arterial,Severe,No,Sunday,Suburban Ring
+TRIP-1600,31.3,30.8,64.4,1271,Off-Peak,Foggy,Highway,Moderate,No,Monday,Suburban Ring
+TRIP-1601,41.5,32.6,76.7,1306,Off-Peak,Clear,Highway,Moderate,No,Thursday,Industrial Park
+TRIP-1602,16.2,16.6,52.5,744,Off-Peak,Snowy,Arterial,Low,No,Saturday,Downtown Core
+TRIP-1603,16.7,53.9,32.2,1994,Morning Peak,Rainy,Highway,Severe,Yes,Friday,Suburban Ring
+TRIP-1604,2.7,7.4,19.9,1164,Off-Peak,Rainy,Urban Local,Moderate,No,Tuesday,Suburban Ring
+TRIP-1605,19.5,35.3,37,2338,Evening Peak,Snowy,Highway,Severe,No,Friday,Uptown Business
+TRIP-1606,15.5,21,55.2,2306,Evening Peak,Clear,Highway,Severe,No,Saturday,Suburban Ring
+TRIP-1607,13.9,11.6,66.5,517,Off-Peak,Clear,Arterial,Low,No,Saturday,Industrial Park
+TRIP-1608,17.5,51.1,40,2510,Morning Peak,Clear,Highway,Severe,Yes,Friday,Suburban Ring
+TRIP-1609,16.1,25.7,42.5,2370,Morning Peak,Snowy,Highway,Severe,No,Wednesday,Downtown Core
+TRIP-1610,14.8,31.7,48.6,774,Off-Peak,Clear,Arterial,Low,Yes,Sunday,Downtown Core
+TRIP-1611,15,35.2,29.2,2568,Evening Peak,Clear,Arterial,Severe,No,Monday,Downtown Core
+TRIP-1612,15,15.5,60.2,726,Off-Peak,Rainy,Arterial,Low,No,Sunday,Uptown Business
+TRIP-1613,6.9,38.6,12,2456,Morning Peak,Snowy,Urban Local,Severe,No,Wednesday,Downtown Core
+TRIP-1614,4,22.9,12,2096,Morning Peak,Rainy,Urban Local,Severe,No,Monday,Uptown Business
+TRIP-1615,6.5,13.1,28.2,639,Off-Peak,Rainy,Urban Local,Low,No,Friday,Suburban Ring
+TRIP-1616,14.4,26.4,40.3,1656,Evening Peak,Clear,Arterial,High,No,Thursday,Suburban Ring
+TRIP-1617,8.4,58.1,13.6,2336,Evening Peak,Clear,Arterial,Severe,Yes,Thursday,Uptown Business
+TRIP-1618,35.8,36.4,59.8,1594,Off-Peak,Rainy,Highway,High,No,Saturday,Downtown Core
+TRIP-1619,14.3,12.2,69.7,1248,Off-Peak,Rainy,Highway,Moderate,No,Thursday,Industrial Park
+TRIP-1620,38.5,34.6,66.8,1738,Off-Peak,Clear,Highway,High,No,Thursday,Downtown Core
+TRIP-1621,35,55.9,41.2,1986,Evening Peak,Foggy,Highway,Severe,No,Monday,Uptown Business
+TRIP-1622,2.9,18.7,12,2603,Morning Peak,Clear,Urban Local,Severe,No,Wednesday,Industrial Park
+TRIP-1623,7.2,53.3,12,2080,Morning Peak,Snowy,Collector,Severe,Yes,Tuesday,Uptown Business
+TRIP-1624,6.7,30.7,32,1236,Off-Peak,Rainy,Arterial,Moderate,Yes,Monday,Downtown Core
+TRIP-1625,5,27.3,12,2247,Morning Peak,Foggy,Collector,Severe,No,Wednesday,Uptown Business
+TRIP-1626,5.1,22.6,16.1,1909,Evening Peak,Clear,Urban Local,High,No,Sunday,Downtown Core
+TRIP-1627,6.7,50.2,12,1631,Morning Peak,Rainy,Urban Local,High,Yes,Wednesday,Uptown Business
+TRIP-1628,3.3,5.1,37.4,757,Off-Peak,Clear,Urban Local,Low,No,Tuesday,Downtown Core
+TRIP-1629,42.4,31.5,83.8,1178,Off-Peak,Clear,Highway,Moderate,No,Sunday,Suburban Ring
+TRIP-1630,9.7,14,45,1195,Off-Peak,Rainy,Arterial,Moderate,No,Monday,Industrial Park
+TRIP-1631,18.4,14.2,68.5,1485,Off-Peak,Foggy,Highway,Moderate,No,Friday,Uptown Business
+TRIP-1632,4.4,44.7,12,1555,Evening Peak,Rainy,Urban Local,High,Yes,Friday,Uptown Business
+TRIP-1633,38.9,61,51.3,1881,Evening Peak,Clear,Highway,High,Yes,Friday,Downtown Core
+TRIP-1634,17.2,20.4,55.3,849,Off-Peak,Rainy,Arterial,Low,No,Sunday,Industrial Park
+TRIP-1635,7.6,53.7,12,1001,Off-Peak,Snowy,Collector,Moderate,Yes,Thursday,Industrial Park
+TRIP-1636,12.8,27.4,33.8,2557,Evening Peak,Clear,Arterial,Severe,No,Tuesday,Suburban Ring
+TRIP-1637,15.1,23.5,39.8,903,Off-Peak,Snowy,Arterial,Moderate,No,Monday,Industrial Park
+TRIP-1638,3.8,33.5,12,2102,Morning Peak,Clear,Urban Local,High,Yes,Tuesday,Suburban Ring
+TRIP-1639,6.5,20.1,26.2,2387,Evening Peak,Rainy,Arterial,Severe,No,Monday,Industrial Park
+TRIP-1640,2.5,18.5,12,2342,Evening Peak,Rainy,Urban Local,Severe,No,Monday,Downtown Core
+TRIP-1641,4.9,10.5,45.2,1723,Evening Peak,Clear,Arterial,High,No,Thursday,Uptown Business
+TRIP-1642,13,17,48,1357,Off-Peak,Rainy,Arterial,Moderate,No,Tuesday,Downtown Core
+TRIP-1643,4.6,9.9,51.2,1483,Morning Peak,Rainy,Arterial,Moderate,No,Monday,Industrial Park
+TRIP-1644,3.5,7.6,24.2,613,Off-Peak,Foggy,Urban Local,Low,No,Tuesday,Industrial Park
+TRIP-1645,35.6,29.6,75,1446,Off-Peak,Rainy,Highway,Moderate,No,Sunday,Industrial Park
+TRIP-1646,6.4,14,25.5,1043,Off-Peak,Clear,Urban Local,Moderate,No,Monday,Downtown Core
+TRIP-1647,3.3,14.2,14.4,1032,Off-Peak,Snowy,Urban Local,Moderate,No,Sunday,Industrial Park
+TRIP-1648,4.9,10.2,40.8,1865,Morning Peak,Clear,Arterial,High,No,Monday,Uptown Business
+TRIP-1649,8.4,21.1,24.3,1123,Off-Peak,Foggy,Collector,Moderate,No,Monday,Uptown Business
+TRIP-1650,11.8,35.9,33.6,499,Off-Peak,Snowy,Arterial,Low,Yes,Saturday,Suburban Ring
+TRIP-1651,10.5,25.7,29.2,2169,Evening Peak,Clear,Collector,High,No,Friday,Industrial Park
+TRIP-1652,9.7,26.7,27.5,2037,Evening Peak,Clear,Collector,High,No,Sunday,Downtown Core
+TRIP-1653,21.8,17.5,83.9,849,Off-Peak,Rainy,Highway,Low,No,Thursday,Industrial Park
+TRIP-1654,8.9,11.7,52.1,752,Off-Peak,Clear,Collector,Low,No,Friday,Industrial Park
+TRIP-1655,18,17.1,66.2,1313,Off-Peak,Foggy,Highway,Moderate,No,Friday,Suburban Ring
+TRIP-1656,5.2,26.6,13.1,2016,Evening Peak,Clear,Urban Local,High,No,Tuesday,Industrial Park
+TRIP-1657,14.3,12.2,73.4,904,Off-Peak,Rainy,Highway,Moderate,No,Saturday,Industrial Park
+TRIP-1658,14.9,25.6,41.8,1979,Morning Peak,Clear,Arterial,High,No,Thursday,Uptown Business
+TRIP-1659,10.5,70.2,12,1833,Morning Peak,Rainy,Arterial,Severe,Yes,Monday,Industrial Park
+TRIP-1660,17.6,33.6,36.6,1658,Morning Peak,Rainy,Arterial,High,No,Friday,Uptown Business
+TRIP-1661,3.2,5.7,27.9,642,Off-Peak,Rainy,Urban Local,Low,No,Saturday,Suburban Ring
+TRIP-1662,12.3,28.2,32.7,2306,Evening Peak,Clear,Arterial,Severe,No,Friday,Downtown Core
+TRIP-1663,7.3,9.3,51.8,559,Off-Peak,Clear,Collector,Low,No,Saturday,Industrial Park
+TRIP-1664,3.9,5.4,40.5,629,Off-Peak,Foggy,Collector,Low,No,Friday,Suburban Ring
+TRIP-1665,8.6,21.1,26.3,1064,Off-Peak,Snowy,Collector,Moderate,No,Friday,Industrial Park
+TRIP-1666,5.4,27.4,12,1187,Off-Peak,Snowy,Urban Local,Moderate,No,Monday,Uptown Business
+TRIP-1667,5.2,27.6,12,1593,Morning Peak,Rainy,Urban Local,High,No,Monday,Downtown Core
+TRIP-1668,9,45.2,13.7,2210,Evening Peak,Clear,Collector,Severe,No,Thursday,Industrial Park
+TRIP-1669,19.7,13.9,77.7,1062,Off-Peak,Clear,Highway,Moderate,No,Sunday,Uptown Business
+TRIP-1670,8.5,65.7,12,2581,Morning Peak,Rainy,Arterial,Severe,Yes,Saturday,Uptown Business
+TRIP-1671,3.5,22.7,12,2420,Morning Peak,Snowy,Arterial,Severe,No,Tuesday,Industrial Park
+TRIP-1672,35.6,25.3,79.3,1332,Off-Peak,Clear,Highway,Moderate,No,Sunday,Industrial Park
+TRIP-1673,12.6,28.8,68.7,1375,Off-Peak,Clear,Highway,Moderate,Yes,Tuesday,Suburban Ring
+TRIP-1674,13.8,16,51,1010,Off-Peak,Clear,Arterial,Moderate,No,Saturday,Downtown Core
+TRIP-1675,41.8,60.1,45,2782,Morning Peak,Foggy,Highway,Severe,No,Saturday,Downtown Core
+TRIP-1676,12.4,32,25.4,2841,Morning Peak,Rainy,Arterial,Severe,No,Monday,Downtown Core
+TRIP-1677,6.3,51.3,12,1791,Morning Peak,Foggy,Arterial,Severe,Yes,Tuesday,Uptown Business
+TRIP-1678,16.6,21.7,48,1195,Off-Peak,Rainy,Arterial,Moderate,No,Tuesday,Industrial Park
+TRIP-1679,5.6,23.5,16.9,1946,Evening Peak,Clear,Urban Local,High,No,Saturday,Industrial Park
+TRIP-1680,8.2,7.4,57.6,431,Off-Peak,Rainy,Arterial,Low,No,Tuesday,Industrial Park
+TRIP-1681,6.3,14.6,24.3,907,Off-Peak,Rainy,Urban Local,Moderate,No,Sunday,Downtown Core
+TRIP-1682,1.7,7.9,18.2,2200,Morning Peak,Clear,Urban Local,High,No,Thursday,Suburban Ring
+TRIP-1683,3.2,14,19.8,2788,Morning Peak,Rainy,Arterial,Severe,No,Sunday,Downtown Core
+TRIP-1684,3,7.5,27.2,756,Off-Peak,Rainy,Urban Local,Low,No,Monday,Downtown Core
+TRIP-1685,17.4,23.3,51.6,2489,Morning Peak,Rainy,Highway,Severe,No,Sunday,Downtown Core
+TRIP-1686,9.6,15.8,41.4,730,Off-Peak,Rainy,Collector,Low,No,Monday,Suburban Ring
+TRIP-1687,15.6,41.2,39.9,1136,Off-Peak,Clear,Arterial,Moderate,Yes,Friday,Industrial Park
+TRIP-1688,21,20.5,69,2189,Morning Peak,Clear,Highway,High,No,Monday,Suburban Ring
+TRIP-1689,5.1,7,51.2,727,Off-Peak,Clear,Collector,Low,No,Tuesday,Downtown Core
+TRIP-1690,12.5,11.7,55.4,564,Off-Peak,Foggy,Arterial,Low,No,Thursday,Industrial Park
+TRIP-1691,5.7,5.7,53.5,501,Off-Peak,Clear,Collector,Low,No,Monday,Industrial Park
+TRIP-1692,9.3,16.5,34.4,631,Off-Peak,Snowy,Collector,Low,No,Friday,Suburban Ring
+TRIP-1693,13.5,17.3,52.8,671,Off-Peak,Foggy,Arterial,Low,No,Friday,Suburban Ring
+TRIP-1694,40.9,71,37.7,2336,Evening Peak,Snowy,Highway,Severe,No,Thursday,Suburban Ring
+TRIP-1695,4.5,39.5,12,1977,Evening Peak,Foggy,Urban Local,Severe,Yes,Monday,Uptown Business
+TRIP-1696,3.8,8.9,24.5,1044,Off-Peak,Snowy,Collector,Moderate,No,Sunday,Industrial Park
+TRIP-1697,1.4,12.7,12,2216,Evening Peak,Clear,Urban Local,Severe,No,Friday,Industrial Park
+TRIP-1698,5.9,17.5,31.7,1547,Evening Peak,Clear,Collector,High,No,Saturday,Downtown Core
+TRIP-1699,2.9,16.6,12,2446,Morning Peak,Clear,Urban Local,Severe,No,Saturday,Uptown Business
+TRIP-1700,3.3,3.1,40.2,1102,Off-Peak,Clear,Collector,Moderate,No,Sunday,Industrial Park
+TRIP-1701,8.9,18.5,43.4,2136,Evening Peak,Clear,Arterial,High,No,Wednesday,Uptown Business
+TRIP-1702,3.8,5.2,40.7,937,Off-Peak,Snowy,Arterial,Moderate,No,Sunday,Industrial Park
+TRIP-1703,9.4,26.8,26.5,2046,Evening Peak,Clear,Collector,High,No,Tuesday,Industrial Park
+TRIP-1704,2.1,3,30.4,1050,Off-Peak,Clear,Urban Local,Moderate,No,Monday,Downtown Core
+TRIP-1705,3.1,16,14.4,1764,Evening Peak,Clear,Urban Local,High,No,Friday,Uptown Business
+TRIP-1706,4.9,10,26.3,919,Off-Peak,Clear,Urban Local,Moderate,No,Sunday,Uptown Business
+TRIP-1707,4.7,25.1,13.5,1235,Morning Peak,Foggy,Urban Local,Moderate,No,Thursday,Suburban Ring
+TRIP-1708,4.8,27.6,13.6,2627,Evening Peak,Clear,Collector,Severe,No,Wednesday,Suburban Ring
+TRIP-1709,8.4,9.6,50.4,533,Off-Peak,Clear,Collector,Low,No,Tuesday,Suburban Ring
+TRIP-1710,12.9,13.8,65.3,817,Off-Peak,Clear,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-1711,4,23.6,12,1707,Evening Peak,Rainy,Urban Local,Severe,No,Thursday,Uptown Business
+TRIP-1712,12,21.7,43.6,1863,Morning Peak,Clear,Arterial,High,No,Saturday,Uptown Business
+TRIP-1713,9.3,21.1,30.3,2066,Morning Peak,Clear,Collector,High,No,Wednesday,Downtown Core
+TRIP-1714,3.9,14,27.5,1923,Morning Peak,Clear,Collector,High,No,Friday,Industrial Park
+TRIP-1715,2.7,17.2,12,2398,Morning Peak,Rainy,Urban Local,Severe,No,Monday,Downtown Core
+TRIP-1716,1.8,12.5,12,2383,Evening Peak,Clear,Urban Local,Severe,No,Wednesday,Industrial Park
+TRIP-1717,5.3,7.4,44.6,962,Off-Peak,Rainy,Arterial,Moderate,No,Thursday,Industrial Park
+TRIP-1718,5.7,6.9,62,824,Off-Peak,Clear,Arterial,Low,No,Monday,Industrial Park
+TRIP-1719,5.1,16.7,19.3,1201,Off-Peak,Rainy,Urban Local,Moderate,No,Monday,Downtown Core
+TRIP-1720,10.7,26.5,31.2,2152,Evening Peak,Clear,Collector,High,No,Wednesday,Downtown Core
+TRIP-1721,1.3,25.9,12,1726,Evening Peak,Rainy,Urban Local,Severe,Yes,Sunday,Suburban Ring
+TRIP-1722,9.2,25.6,22.5,971,Off-Peak,Snowy,Collector,Moderate,No,Saturday,Industrial Park
+TRIP-1723,9.1,26,26,2315,Evening Peak,Rainy,Arterial,Severe,No,Tuesday,Uptown Business
+TRIP-1724,3.3,21.8,12,1952,Morning Peak,Rainy,Urban Local,Severe,No,Tuesday,Uptown Business
+TRIP-1725,36.1,41.8,52,1582,Off-Peak,Snowy,Highway,High,No,Saturday,Uptown Business
+TRIP-1726,7.2,57,12,1999,Evening Peak,Rainy,Collector,Severe,Yes,Friday,Uptown Business
+TRIP-1727,2.8,7.1,26.5,1210,Off-Peak,Clear,Urban Local,Moderate,No,Sunday,Downtown Core
+TRIP-1728,3.2,21.2,12,2459,Morning Peak,Foggy,Urban Local,Severe,No,Friday,Industrial Park
+TRIP-1729,6.7,35.7,12,2135,Morning Peak,Foggy,Collector,Severe,No,Saturday,Uptown Business
+TRIP-1730,20.9,21.2,61.5,927,Off-Peak,Snowy,Highway,Moderate,No,Sunday,Suburban Ring
+TRIP-1731,7.8,18.1,28.7,1310,Off-Peak,Foggy,Collector,Moderate,No,Sunday,Downtown Core
+TRIP-1732,12.1,12.5,66.2,513,Off-Peak,Clear,Arterial,Low,No,Thursday,Industrial Park
+TRIP-1733,5.4,11.5,30.8,1078,Off-Peak,Clear,Urban Local,Moderate,No,Thursday,Industrial Park
+TRIP-1734,5.8,10.1,39.4,1351,Off-Peak,Foggy,Arterial,Moderate,No,Saturday,Downtown Core
+TRIP-1735,17.2,24.2,45.3,1011,Off-Peak,Rainy,Arterial,Moderate,No,Monday,Uptown Business
+TRIP-1736,10.2,16,40.8,932,Off-Peak,Clear,Collector,Moderate,No,Wednesday,Uptown Business
+TRIP-1737,22.8,33.7,46.9,2148,Morning Peak,Foggy,Highway,Severe,No,Tuesday,Suburban Ring
+TRIP-1738,41,51.3,51.8,2431,Evening Peak,Rainy,Highway,Severe,No,Wednesday,Downtown Core
+TRIP-1739,10.1,55.1,12,2192,Evening Peak,Snowy,Collector,Severe,No,Wednesday,Suburban Ring
+TRIP-1740,8.8,23.5,25.3,2042,Morning Peak,Clear,Collector,High,No,Thursday,Industrial Park
+TRIP-1741,9.6,53.5,12,1822,Evening Peak,Snowy,Collector,Severe,No,Sunday,Uptown Business
+TRIP-1742,6.5,28.6,13.7,976,Off-Peak,Foggy,Urban Local,Moderate,No,Saturday,Downtown Core
+TRIP-1743,1.8,4.7,25.5,835,Off-Peak,Foggy,Urban Local,Low,No,Sunday,Uptown Business
+TRIP-1744,36.4,43.9,54.1,2810,Evening Peak,Clear,Highway,Severe,No,Friday,Downtown Core
+TRIP-1745,7.5,24,24.8,1893,Evening Peak,Clear,Collector,High,No,Saturday,Uptown Business
+TRIP-1746,4.8,10.7,23.6,574,Off-Peak,Foggy,Urban Local,Low,No,Friday,Suburban Ring
+TRIP-1747,9.3,49.3,12,1720,Evening Peak,Snowy,Collector,Severe,No,Wednesday,Uptown Business
+TRIP-1748,15.3,22,56.8,2625,Evening Peak,Clear,Highway,Severe,No,Monday,Suburban Ring
+TRIP-1749,14,40.2,24.1,1897,Evening Peak,Rainy,Arterial,Severe,No,Friday,Uptown Business
+TRIP-1750,3.4,18.6,16.6,2749,Evening Peak,Clear,Collector,Severe,No,Sunday,Downtown Core
+TRIP-1751,1.6,14.2,12,2716,Evening Peak,Foggy,Urban Local,Severe,No,Wednesday,Industrial Park
+TRIP-1752,5,9.8,27.4,1159,Off-Peak,Clear,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1753,4.9,27.8,12,1632,Morning Peak,Foggy,Urban Local,High,No,Friday,Suburban Ring
+TRIP-1754,14,14.3,68.2,673,Off-Peak,Clear,Arterial,Low,No,Saturday,Suburban Ring
+TRIP-1755,3,5.8,57.8,1417,Morning Peak,Clear,Arterial,Moderate,No,Saturday,Suburban Ring
+TRIP-1756,35.2,43,49,1567,Off-Peak,Snowy,Highway,High,No,Thursday,Industrial Park
+TRIP-1757,3.6,6.7,40.7,748,Off-Peak,Clear,Urban Local,Low,No,Wednesday,Industrial Park
+TRIP-1758,20.5,28.9,52.2,2509,Morning Peak,Clear,Highway,Severe,No,Monday,Industrial Park
+TRIP-1759,4.1,6.1,47.1,766,Off-Peak,Clear,Collector,Low,No,Tuesday,Industrial Park
+TRIP-1760,32.5,57,35.2,1772,Off-Peak,Snowy,Highway,Severe,No,Tuesday,Downtown Core
+TRIP-1761,6.2,12.8,27.6,1416,Off-Peak,Foggy,Collector,Moderate,No,Tuesday,Downtown Core
+TRIP-1762,33,27.8,71.5,1254,Off-Peak,Rainy,Highway,Moderate,No,Thursday,Uptown Business
+TRIP-1763,2.6,5.9,27.4,643,Off-Peak,Rainy,Urban Local,Low,No,Friday,Industrial Park
+TRIP-1764,7.3,13.1,34.5,551,Off-Peak,Snowy,Collector,Low,No,Monday,Uptown Business
+TRIP-1765,6.4,7.6,67.2,631,Off-Peak,Clear,Arterial,Low,No,Monday,Suburban Ring
+TRIP-1766,9.9,18.2,42.3,1384,Morning Peak,Clear,Collector,Moderate,No,Tuesday,Uptown Business
+TRIP-1767,26.5,37,49.6,1790,Evening Peak,Rainy,Highway,Severe,No,Wednesday,Uptown Business
+TRIP-1768,19,19.6,61.2,1388,Off-Peak,Snowy,Highway,Moderate,No,Thursday,Downtown Core
+TRIP-1769,5.8,10.8,31.1,1386,Off-Peak,Clear,Urban Local,Moderate,No,Tuesday,Downtown Core
+TRIP-1770,6.1,9.2,37,523,Off-Peak,Clear,Urban Local,Low,No,Monday,Suburban Ring
+TRIP-1771,30,78.1,30.2,2375,Evening Peak,Rainy,Highway,Severe,Yes,Saturday,Downtown Core
+TRIP-1772,23.9,19.5,69.2,1202,Off-Peak,Foggy,Highway,Moderate,No,Tuesday,Industrial Park
+TRIP-1773,13.6,22.3,45.6,1423,Morning Peak,Foggy,Arterial,Moderate,No,Tuesday,Suburban Ring
+TRIP-1774,3.2,3.3,39.1,577,Off-Peak,Rainy,Collector,Low,No,Thursday,Industrial Park
+TRIP-1775,6.5,13.5,30.1,1196,Off-Peak,Clear,Urban Local,Moderate,No,Saturday,Industrial Park
+TRIP-1776,32.8,46.5,45,2338,Evening Peak,Rainy,Highway,Severe,No,Sunday,Industrial Park
+TRIP-1777,18.7,15.8,66.7,1570,Off-Peak,Clear,Highway,High,No,Friday,Industrial Park
+TRIP-1778,9.5,30,22.1,1872,Morning Peak,Rainy,Arterial,Severe,No,Saturday,Suburban Ring
+TRIP-1779,1.6,5.9,20.5,718,Off-Peak,Snowy,Urban Local,Low,No,Saturday,Downtown Core
+TRIP-1780,13,84.9,12,2640,Morning Peak,Snowy,Arterial,Severe,Yes,Friday,Uptown Business
+TRIP-1781,18.8,12.9,90.7,856,Off-Peak,Clear,Highway,Low,No,Sunday,Industrial Park
+TRIP-1782,41.5,46.7,58.7,2559,Morning Peak,Clear,Highway,Severe,No,Sunday,Industrial Park
+TRIP-1783,14.8,20.6,44.9,1130,Off-Peak,Rainy,Arterial,Moderate,No,Saturday,Suburban Ring
+TRIP-1784,6.6,38.4,12,1924,Morning Peak,Rainy,Urban Local,Severe,No,Sunday,Suburban Ring
+TRIP-1785,12.6,20.6,46.6,2623,Evening Peak,Rainy,Highway,Severe,No,Monday,Uptown Business
+TRIP-1786,17.6,19.7,48.8,1099,Off-Peak,Rainy,Arterial,Moderate,No,Friday,Suburban Ring
+TRIP-1787,10.1,52.1,12,2432,Morning Peak,Clear,Collector,Severe,No,Saturday,Industrial Park
+TRIP-1788,25.3,40.2,43.4,2230,Morning Peak,Foggy,Highway,Severe,No,Sunday,Industrial Park
+TRIP-1789,35.9,47.3,49.4,2174,Morning Peak,Rainy,Highway,Severe,No,Friday,Industrial Park
+TRIP-1790,5.1,6.9,58,1205,Morning Peak,Clear,Arterial,Moderate,No,Tuesday,Suburban Ring
+TRIP-1791,6.4,36.1,12,2096,Morning Peak,Snowy,Urban Local,Severe,No,Wednesday,Uptown Business
+TRIP-1792,17.6,18.4,52.2,555,Off-Peak,Foggy,Arterial,Low,No,Friday,Industrial Park
+TRIP-1793,4.9,4.3,51.6,851,Off-Peak,Clear,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-1794,29.3,21.1,82.6,1456,Off-Peak,Clear,Highway,Moderate,No,Thursday,Industrial Park
+TRIP-1795,6.9,56.3,12,1915,Evening Peak,Rainy,Collector,Severe,Yes,Sunday,Downtown Core
+TRIP-1796,23.3,22.5,67.4,1329,Off-Peak,Snowy,Highway,Moderate,No,Monday,Uptown Business
+TRIP-1797,6.2,8.4,51.8,879,Off-Peak,Snowy,Arterial,Low,No,Monday,Uptown Business
+TRIP-1798,8.7,49.4,12,2356,Evening Peak,Clear,Collector,Severe,No,Wednesday,Downtown Core
+TRIP-1799,28.8,43,45.1,2642,Morning Peak,Rainy,Highway,Severe,No,Thursday,Downtown Core
+TRIP-1800,14.4,21,50,2293,Evening Peak,Rainy,Highway,Severe,No,Thursday,Industrial Park
+TRIP-1801,6.3,12.3,35.2,854,Off-Peak,Snowy,Collector,Low,No,Thursday,Uptown Business
+TRIP-1802,20.9,38,39.8,1920,Evening Peak,Snowy,Highway,Severe,No,Thursday,Industrial Park
+TRIP-1803,14.8,40.8,23.5,1912,Morning Peak,Rainy,Arterial,Severe,No,Monday,Industrial Park
+TRIP-1804,6.1,49.3,12,1886,Morning Peak,Foggy,Urban Local,Severe,Yes,Sunday,Industrial Park
+TRIP-1805,15.7,23.5,47,2955,Morning Peak,Rainy,Highway,Severe,No,Tuesday,Downtown Core
+TRIP-1806,3.1,6.5,40.9,2006,Morning Peak,Clear,Arterial,High,No,Monday,Downtown Core
+TRIP-1807,4.7,19.7,17,1885,Evening Peak,Clear,Urban Local,High,No,Saturday,Downtown Core
+TRIP-1808,7.3,40.6,12,2077,Morning Peak,Snowy,Urban Local,Severe,No,Tuesday,Suburban Ring
+TRIP-1809,14.7,22.8,46.8,1689,Morning Peak,Clear,Arterial,High,No,Friday,Suburban Ring
+TRIP-1810,1.8,10.9,12,1954,Morning Peak,Snowy,Urban Local,Severe,No,Sunday,Suburban Ring
+TRIP-1811,34.7,34,61.1,1535,Off-Peak,Rainy,Highway,High,No,Friday,Uptown Business
+TRIP-1812,5.1,13.7,25.7,931,Off-Peak,Clear,Urban Local,Moderate,No,Wednesday,Uptown Business
+TRIP-1813,33,41.9,55.7,2216,Evening Peak,Clear,Highway,Severe,No,Thursday,Suburban Ring
+TRIP-1814,15.7,37.1,51.4,1495,Off-Peak,Snowy,Highway,Moderate,Yes,Monday,Downtown Core
+TRIP-1815,6.4,48,14.6,2613,Morning Peak,Clear,Arterial,Severe,Yes,Sunday,Suburban Ring
+TRIP-1816,16.1,30.7,36.3,1697,Morning Peak,Rainy,Arterial,High,No,Tuesday,Downtown Core
+TRIP-1817,11.3,19,46,2103,Morning Peak,Clear,Arterial,High,No,Wednesday,Downtown Core
+TRIP-1818,5.7,19.2,18.4,995,Off-Peak,Rainy,Urban Local,Moderate,No,Monday,Uptown Business
+TRIP-1819,5.7,10.1,41,942,Off-Peak,Clear,Collector,Moderate,No,Saturday,Downtown Core
+TRIP-1820,11.3,9.3,65.8,466,Off-Peak,Clear,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-1821,22.3,30,52.3,2313,Morning Peak,Clear,Highway,Severe,No,Wednesday,Suburban Ring
+TRIP-1822,27.4,45.1,38,2753,Morning Peak,Snowy,Highway,Severe,No,Sunday,Industrial Park
+TRIP-1823,6.3,24.5,20.3,2658,Evening Peak,Foggy,Arterial,Severe,No,Wednesday,Uptown Business
+TRIP-1824,37.5,33.9,65.3,1504,Off-Peak,Clear,Highway,High,No,Monday,Downtown Core
+TRIP-1825,2.3,8.1,26.5,1273,Morning Peak,Clear,Urban Local,Moderate,No,Sunday,Industrial Park
+TRIP-1826,16.9,17.5,64.7,877,Off-Peak,Clear,Arterial,Low,No,Wednesday,Uptown Business
+TRIP-1827,3.5,19.3,12,2244,Morning Peak,Clear,Urban Local,Severe,No,Sunday,Industrial Park
+TRIP-1828,5,13.4,25.2,1360,Off-Peak,Clear,Urban Local,Moderate,No,Sunday,Downtown Core
+TRIP-1829,43.7,46.9,55.8,1590,Off-Peak,Foggy,Highway,High,No,Tuesday,Suburban Ring
+TRIP-1830,30.8,21.4,81.3,1445,Off-Peak,Clear,Highway,Moderate,No,Tuesday,Suburban Ring
+TRIP-1831,7.8,43.9,12,2637,Evening Peak,Rainy,Collector,Severe,No,Tuesday,Suburban Ring
+TRIP-1832,22.2,28.6,56.7,2348,Morning Peak,Clear,Highway,Severe,No,Sunday,Uptown Business
+TRIP-1833,2.4,4.4,53.6,875,Off-Peak,Clear,Collector,Low,No,Friday,Uptown Business
+TRIP-1834,29.7,23,80,1102,Off-Peak,Clear,Highway,Moderate,No,Tuesday,Uptown Business
+TRIP-1835,40.8,52.8,50,2218,Morning Peak,Rainy,Highway,Severe,No,Monday,Uptown Business
+TRIP-1836,8.2,34.4,30.7,907,Off-Peak,Rainy,Arterial,Moderate,Yes,Friday,Suburban Ring
+TRIP-1837,12.8,21.2,39.3,1061,Off-Peak,Foggy,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-1838,29.6,44.2,39.6,1738,Off-Peak,Snowy,Highway,Severe,No,Sunday,Downtown Core
+TRIP-1839,18.4,17,64.8,1757,Off-Peak,Clear,Highway,High,No,Thursday,Downtown Core
+TRIP-1840,4.2,12.6,27.4,2272,Morning Peak,Clear,Arterial,Severe,No,Monday,Industrial Park
+TRIP-1841,43.7,38.5,66.9,1533,Off-Peak,Clear,Highway,High,No,Tuesday,Industrial Park
+TRIP-1842,15.5,19.9,49.4,936,Off-Peak,Rainy,Arterial,Moderate,No,Wednesday,Industrial Park
+TRIP-1843,6.2,10.6,39.3,710,Off-Peak,Foggy,Collector,Low,No,Saturday,Uptown Business
+TRIP-1844,5.9,24.8,16.8,2398,Evening Peak,Snowy,Arterial,Severe,No,Wednesday,Industrial Park
+TRIP-1845,31.8,31,60.1,1597,Off-Peak,Rainy,Highway,High,No,Thursday,Suburban Ring
+TRIP-1846,5.4,12.5,25.4,1104,Off-Peak,Foggy,Collector,Moderate,No,Saturday,Suburban Ring
+TRIP-1847,37.6,33.6,66.5,1650,Off-Peak,Clear,Highway,High,No,Tuesday,Downtown Core
+TRIP-1848,39.1,59.8,42.9,2310,Evening Peak,Foggy,Highway,Severe,No,Saturday,Uptown Business
+TRIP-1849,10.8,16.6,35.6,1475,Off-Peak,Snowy,Arterial,Moderate,No,Monday,Downtown Core
+TRIP-1850,2.8,3.6,32.9,676,Off-Peak,Snowy,Collector,Low,No,Monday,Industrial Park
+TRIP-1851,17.5,26.5,51.8,1329,Evening Peak,Clear,Arterial,Moderate,No,Tuesday,Industrial Park
+TRIP-1852,5.8,31.6,12,2259,Evening Peak,Clear,Urban Local,Severe,No,Wednesday,Industrial Park
+TRIP-1853,39.6,66.9,36.8,2777,Morning Peak,Snowy,Highway,Severe,No,Saturday,Suburban Ring
+TRIP-1854,4.2,26,12,2059,Morning Peak,Snowy,Urban Local,Severe,No,Monday,Uptown Business
+TRIP-1855,10.5,17.8,38.4,1099,Off-Peak,Snowy,Arterial,Moderate,No,Wednesday,Downtown Core
+TRIP-1856,19.9,28.9,44.3,1720,Off-Peak,Rainy,Highway,Severe,No,Saturday,Downtown Core
+TRIP-1857,3,3,50,828,Off-Peak,Clear,Collector,Low,No,Monday,Suburban Ring
+TRIP-1858,5.6,6.1,41.8,807,Off-Peak,Foggy,Collector,Low,No,Saturday,Downtown Core
+TRIP-1859,5,40.7,12,2049,Morning Peak,Snowy,Urban Local,Severe,Yes,Saturday,Suburban Ring
+TRIP-1860,2.2,8.6,18.4,1374,Off-Peak,Rainy,Urban Local,Moderate,No,Monday,Downtown Core
+TRIP-1861,3.3,17.6,43.8,912,Off-Peak,Clear,Arterial,Moderate,Yes,Saturday,Downtown Core
+TRIP-1862,5.1,27.8,32.2,1087,Off-Peak,Rainy,Arterial,Moderate,Yes,Monday,Suburban Ring
+TRIP-1863,31.4,44.6,46,2449,Evening Peak,Rainy,Highway,Severe,No,Thursday,Suburban Ring
+TRIP-1864,10.2,14,42.8,940,Off-Peak,Snowy,Arterial,Moderate,No,Saturday,Suburban Ring
+TRIP-1865,32.2,31.9,67,1797,Evening Peak,Clear,Highway,High,No,Friday,Industrial Park
+TRIP-1866,2.6,12.9,12.9,1388,Off-Peak,Snowy,Urban Local,Moderate,No,Friday,Downtown Core
+TRIP-1867,4.9,5.4,46,835,Off-Peak,Snowy,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-1868,6.9,9.8,51.9,1158,Off-Peak,Rainy,Arterial,Moderate,No,Thursday,Suburban Ring
+TRIP-1869,17.1,110.8,12,2321,Evening Peak,Snowy,Arterial,Severe,Yes,Monday,Industrial Park
+TRIP-1870,8.9,46.2,12,2684,Morning Peak,Snowy,Collector,Severe,No,Wednesday,Industrial Park
+TRIP-1871,10.9,23.6,29.1,1101,Off-Peak,Foggy,Collector,Moderate,No,Monday,Suburban Ring
+TRIP-1872,7.6,13.7,48.3,1151,Morning Peak,Rainy,Arterial,Moderate,No,Saturday,Uptown Business
+TRIP-1873,5.9,14.5,35.7,1686,Evening Peak,Rainy,Arterial,High,No,Monday,Industrial Park
+TRIP-1874,14.7,19.1,63.6,1696,Morning Peak,Rainy,Highway,High,No,Wednesday,Uptown Business
+TRIP-1875,12.3,16.1,54.5,1155,Morning Peak,Clear,Arterial,Moderate,No,Tuesday,Uptown Business
+TRIP-1876,36.2,32,69.8,1404,Off-Peak,Rainy,Highway,Moderate,No,Tuesday,Downtown Core
+TRIP-1877,6.8,27.4,17.2,2260,Evening Peak,Foggy,Arterial,Severe,No,Tuesday,Uptown Business
+TRIP-1878,10.2,21.2,34.7,1511,Morning Peak,Rainy,Arterial,High,No,Wednesday,Downtown Core
+TRIP-1879,5.8,9.8,30.2,920,Off-Peak,Clear,Urban Local,Moderate,No,Thursday,Downtown Core
+TRIP-1880,6.9,12.7,28.8,695,Off-Peak,Rainy,Urban Local,Low,No,Tuesday,Uptown Business
+TRIP-1881,7,14.3,25.9,1013,Off-Peak,Foggy,Collector,Moderate,No,Tuesday,Downtown Core
+TRIP-1882,4,10.2,22.1,1106,Off-Peak,Rainy,Urban Local,Moderate,No,Sunday,Industrial Park
+TRIP-1883,24.1,43,36.1,2786,Evening Peak,Snowy,Highway,Severe,No,Monday,Downtown Core
+TRIP-1884,29.4,32.7,66.9,2155,Evening Peak,Clear,Highway,High,No,Sunday,Industrial Park
+TRIP-1885,16.7,32.5,36.7,1593,Evening Peak,Rainy,Arterial,High,No,Wednesday,Uptown Business
+TRIP-1886,3.5,10.6,22.7,962,Off-Peak,Rainy,Urban Local,Moderate,No,Tuesday,Uptown Business
+TRIP-1887,7.2,31.9,15.9,2256,Evening Peak,Foggy,Arterial,Severe,No,Tuesday,Suburban Ring
+TRIP-1888,5.5,25.3,14.9,2145,Morning Peak,Clear,Urban Local,High,No,Tuesday,Industrial Park
+TRIP-1889,6.8,40.5,12,2535,Evening Peak,Rainy,Urban Local,Severe,No,Saturday,Downtown Core
+TRIP-1890,4.4,10.6,36.9,1160,Morning Peak,Clear,Collector,Moderate,No,Monday,Uptown Business
+TRIP-1891,9.5,13.6,37,580,Off-Peak,Foggy,Collector,Low,No,Friday,Suburban Ring
+TRIP-1892,16.7,17.9,53.4,800,Off-Peak,Foggy,Arterial,Low,No,Saturday,Downtown Core
+TRIP-1893,12.5,15.2,45.4,993,Off-Peak,Foggy,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-1894,6.9,14.3,26,984,Off-Peak,Clear,Urban Local,Moderate,No,Saturday,Industrial Park
+TRIP-1895,12,78,12.8,2008,Evening Peak,Rainy,Arterial,Severe,Yes,Monday,Industrial Park
+TRIP-1896,10.9,29.7,28.1,1534,Evening Peak,Clear,Collector,High,No,Tuesday,Industrial Park
+TRIP-1897,17.5,22.4,53.5,2722,Evening Peak,Clear,Highway,Severe,No,Saturday,Uptown Business
+TRIP-1898,15,24.2,44.6,1845,Morning Peak,Clear,Arterial,High,No,Tuesday,Downtown Core
+TRIP-1899,32.9,53.9,39.7,2512,Morning Peak,Foggy,Highway,Severe,No,Friday,Downtown Core
+TRIP-1900,8,21.3,27.1,1251,Morning Peak,Snowy,Collector,Moderate,No,Friday,Uptown Business
+TRIP-1901,13,38.1,24.4,2453,Evening Peak,Rainy,Arterial,Severe,No,Tuesday,Suburban Ring
+TRIP-1902,2,3,34.8,606,Off-Peak,Clear,Urban Local,Low,No,Saturday,Uptown Business
+TRIP-1903,28.2,22.2,76.9,1437,Off-Peak,Clear,Highway,Moderate,No,Tuesday,Industrial Park
+TRIP-1904,18.4,20.2,69.5,1860,Morning Peak,Clear,Highway,High,No,Monday,Industrial Park
+TRIP-1905,7.2,16.1,39.6,1860,Evening Peak,Clear,Arterial,High,No,Sunday,Uptown Business
+TRIP-1906,16.2,19.1,69.8,2095,Morning Peak,Clear,Highway,High,No,Thursday,Uptown Business
+TRIP-1907,2.6,8.4,22.2,560,Off-Peak,Snowy,Urban Local,Low,No,Thursday,Industrial Park
+TRIP-1908,9.6,52.4,12,1873,Evening Peak,Foggy,Collector,Severe,No,Wednesday,Suburban Ring
+TRIP-1909,28.5,38.3,47.5,2794,Morning Peak,Rainy,Highway,Severe,No,Friday,Uptown Business
+TRIP-1910,5.2,9.3,28.7,941,Off-Peak,Clear,Urban Local,Moderate,No,Wednesday,Suburban Ring
+TRIP-1911,1.5,9,28.3,1490,Evening Peak,Clear,Urban Local,Moderate,No,Friday,Uptown Business
+TRIP-1912,3.6,13.8,23.6,1851,Evening Peak,Rainy,Arterial,Severe,No,Sunday,Uptown Business
+TRIP-1913,2.2,12.4,18.5,2381,Evening Peak,Clear,Collector,Severe,No,Friday,Downtown Core
+TRIP-1914,10.4,9.9,54,618,Off-Peak,Foggy,Arterial,Low,No,Monday,Uptown Business
+TRIP-1915,3,17.7,13.3,2331,Morning Peak,Clear,Collector,Severe,No,Thursday,Industrial Park
+TRIP-1916,8.1,32,17.7,2354,Morning Peak,Clear,Collector,Severe,No,Tuesday,Uptown Business
+TRIP-1917,4.3,10,45.4,1741,Evening Peak,Clear,Arterial,High,No,Tuesday,Industrial Park
+TRIP-1918,6.2,11.8,29.6,1171,Off-Peak,Clear,Urban Local,Moderate,No,Tuesday,Suburban Ring
+TRIP-1919,14,43.5,34.4,1150,Off-Peak,Rainy,Arterial,Moderate,Yes,Sunday,Downtown Core
+TRIP-1920,7.4,7.8,49.8,703,Off-Peak,Foggy,Arterial,Low,No,Thursday,Downtown Core
+TRIP-1921,2,14.5,12,2572,Evening Peak,Clear,Urban Local,Severe,No,Thursday,Downtown Core
+TRIP-1922,2.7,16.9,12,2013,Evening Peak,Rainy,Urban Local,Severe,No,Thursday,Industrial Park
+TRIP-1923,5.9,34.9,12,2175,Evening Peak,Snowy,Collector,Severe,No,Wednesday,Suburban Ring
+TRIP-1924,1.1,3,29.7,414,Off-Peak,Rainy,Urban Local,Low,No,Saturday,Uptown Business
+TRIP-1925,3.8,25.5,38.5,504,Off-Peak,Clear,Collector,Low,Yes,Thursday,Uptown Business
+TRIP-1926,15.6,22.9,47.5,2650,Evening Peak,Rainy,Highway,Severe,No,Thursday,Industrial Park
+TRIP-1927,15.9,18.8,51.2,848,Off-Peak,Snowy,Arterial,Low,No,Thursday,Industrial Park
+TRIP-1928,34.7,38.6,57.8,3130,Evening Peak,Clear,Highway,Severe,No,Friday,Downtown Core
+TRIP-1929,3.6,6.2,43.9,1228,Off-Peak,Foggy,Arterial,Moderate,No,Saturday,Downtown Core
+TRIP-1930,7.8,7.1,55.5,1069,Off-Peak,Clear,Arterial,Moderate,No,Saturday,Downtown Core
+TRIP-1931,6.7,39,12,2412,Morning Peak,Clear,Urban Local,Severe,No,Monday,Uptown Business
+TRIP-1932,13.2,18,52.2,2895,Morning Peak,Clear,Highway,Severe,No,Monday,Downtown Core
+TRIP-1933,5.4,21,18,2626,Evening Peak,Clear,Collector,Severe,No,Sunday,Downtown Core
+TRIP-1934,35.9,62.1,37.8,2372,Morning Peak,Snowy,Highway,Severe,No,Thursday,Downtown Core
+TRIP-1935,6.1,28.2,14.5,1883,Evening Peak,Clear,Urban Local,High,No,Monday,Industrial Park
+TRIP-1936,10.4,13.7,50.1,585,Off-Peak,Clear,Collector,Low,No,Sunday,Uptown Business
+TRIP-1937,10.5,14.1,45.1,893,Off-Peak,Rainy,Collector,Low,No,Friday,Downtown Core
+TRIP-1938,5.4,9.7,32.7,1476,Off-Peak,Rainy,Collector,Moderate,No,Friday,Downtown Core
+TRIP-1939,3.5,7.8,44.8,1956,Evening Peak,Clear,Arterial,High,No,Tuesday,Industrial Park
+TRIP-1940,9.4,14.5,38,540,Off-Peak,Foggy,Collector,Low,No,Monday,Uptown Business
+TRIP-1941,5.2,18,24.4,1254,Morning Peak,Clear,Urban Local,Moderate,No,Saturday,Suburban Ring
+TRIP-1942,1.5,4.7,20.8,1010,Off-Peak,Rainy,Urban Local,Moderate,No,Saturday,Downtown Core
+TRIP-1943,5.8,9.5,34.6,1198,Off-Peak,Rainy,Collector,Moderate,No,Monday,Industrial Park
+TRIP-1944,7.3,18.1,24.5,762,Off-Peak,Foggy,Urban Local,Low,No,Friday,Uptown Business
+TRIP-1945,5.7,9.9,35.8,804,Off-Peak,Snowy,Collector,Low,No,Sunday,Uptown Business
+TRIP-1946,12.2,80.9,12,2399,Morning Peak,Snowy,Arterial,Severe,Yes,Tuesday,Uptown Business
+TRIP-1947,7.3,9.8,46.4,410,Off-Peak,Clear,Collector,Low,No,Wednesday,Industrial Park
+TRIP-1948,3.9,19.2,14.8,2189,Morning Peak,Clear,Urban Local,High,No,Sunday,Uptown Business
+TRIP-1949,9.5,18,39.7,1499,Morning Peak,Clear,Collector,Moderate,No,Friday,Downtown Core
+TRIP-1950,13.3,10.8,82.4,1137,Off-Peak,Clear,Highway,Moderate,No,Saturday,Downtown Core
+TRIP-1951,8.2,59.6,12,2359,Evening Peak,Clear,Collector,Severe,Yes,Monday,Downtown Core
+TRIP-1952,15,14.7,63.8,678,Off-Peak,Clear,Arterial,Low,No,Monday,Uptown Business
+TRIP-1953,22.4,18.8,64.7,1304,Off-Peak,Snowy,Highway,Moderate,No,Wednesday,Industrial Park
+TRIP-1954,22,21.1,67.3,1100,Off-Peak,Snowy,Highway,Moderate,No,Saturday,Uptown Business
+TRIP-1955,32.1,26.3,76.8,921,Off-Peak,Rainy,Highway,Moderate,No,Friday,Uptown Business
+TRIP-1956,4.8,7,34.3,686,Off-Peak,Rainy,Urban Local,Low,No,Thursday,Industrial Park
+TRIP-1957,7.7,11,45.9,459,Off-Peak,Snowy,Arterial,Low,No,Friday,Uptown Business
+TRIP-1958,7.8,10.8,36.7,484,Off-Peak,Foggy,Collector,Low,No,Sunday,Uptown Business
+TRIP-1959,28.1,25.4,67.8,1478,Off-Peak,Foggy,Highway,Moderate,No,Friday,Downtown Core
+TRIP-1960,4.3,10.4,29.4,2562,Morning Peak,Clear,Arterial,Severe,No,Saturday,Downtown Core
+TRIP-1961,2.1,3,52.2,587,Off-Peak,Clear,Collector,Low,No,Sunday,Industrial Park
+TRIP-1962,5.4,19.6,21.8,2201,Evening Peak,Foggy,Arterial,Severe,No,Thursday,Uptown Business
+TRIP-1963,6.3,9.3,44.7,975,Off-Peak,Foggy,Arterial,Moderate,No,Saturday,Industrial Park
+TRIP-1964,33.8,30.3,69.8,1014,Off-Peak,Rainy,Highway,Moderate,No,Tuesday,Uptown Business
+TRIP-1965,25.2,42.4,41.2,2162,Evening Peak,Snowy,Highway,Severe,No,Sunday,Downtown Core
+TRIP-1966,8.7,30.4,20.3,1920,Evening Peak,Rainy,Arterial,Severe,No,Thursday,Suburban Ring
+TRIP-1967,23.5,31.5,51.1,2481,Morning Peak,Clear,Highway,Severe,No,Monday,Downtown Core
+TRIP-1968,6,7.3,59.4,882,Off-Peak,Rainy,Arterial,Low,No,Friday,Suburban Ring
+TRIP-1969,24.1,29.5,53.9,2302,Evening Peak,Clear,Highway,Severe,No,Saturday,Suburban Ring
+TRIP-1970,4.3,18.4,18.9,2093,Morning Peak,Clear,Urban Local,High,No,Saturday,Industrial Park
+TRIP-1971,3.4,19.9,12,2002,Evening Peak,Snowy,Urban Local,Severe,No,Friday,Suburban Ring
+TRIP-1972,17.2,31.5,36.4,1581,Evening Peak,Rainy,Arterial,High,No,Tuesday,Industrial Park
+TRIP-1973,11.3,48.4,15.5,2169,Evening Peak,Foggy,Arterial,Severe,No,Monday,Industrial Park
+TRIP-1974,42.8,34.9,77,1047,Off-Peak,Clear,Highway,Moderate,No,Monday,Suburban Ring
+TRIP-1975,32.6,48.6,44.8,1777,Evening Peak,Rainy,Highway,Severe,No,Tuesday,Downtown Core
+TRIP-1976,4.7,3.9,58.5,1039,Off-Peak,Clear,Arterial,Moderate,No,Friday,Industrial Park
+TRIP-1977,23.7,40.2,39,2633,Morning Peak,Snowy,Highway,Severe,No,Wednesday,Uptown Business
+TRIP-1978,7.5,10.3,37.7,716,Off-Peak,Foggy,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-1979,16.3,23.5,44.7,1144,Off-Peak,Foggy,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-1980,24.9,26,66.2,2069,Morning Peak,Clear,Highway,High,No,Saturday,Industrial Park
+TRIP-1981,6.3,23.2,15.1,1216,Off-Peak,Snowy,Urban Local,Moderate,No,Wednesday,Downtown Core
+TRIP-1982,4.2,22.2,13,1972,Morning Peak,Clear,Urban Local,High,No,Monday,Suburban Ring
+TRIP-1983,2.9,9,28.6,2035,Evening Peak,Clear,Collector,High,No,Monday,Uptown Business
+TRIP-1984,10.7,56.1,12,1955,Evening Peak,Rainy,Collector,Severe,No,Saturday,Suburban Ring
+TRIP-1985,8.6,12.3,41.6,557,Off-Peak,Rainy,Collector,Low,No,Friday,Uptown Business
+TRIP-1986,5.7,15.8,22,1093,Off-Peak,Rainy,Urban Local,Moderate,No,Monday,Industrial Park
+TRIP-1987,2.2,10.1,18,1329,Morning Peak,Foggy,Urban Local,Moderate,No,Saturday,Uptown Business
+TRIP-1988,6.7,12.2,29.6,1199,Off-Peak,Foggy,Collector,Moderate,No,Sunday,Industrial Park
+TRIP-1989,7.7,45,12,1884,Evening Peak,Snowy,Collector,Severe,No,Tuesday,Uptown Business
+TRIP-1990,4.2,9.1,29.6,1315,Off-Peak,Clear,Urban Local,Moderate,No,Thursday,Downtown Core
+TRIP-1991,5.7,34.9,12,1427,Evening Peak,Snowy,Urban Local,Moderate,No,Thursday,Downtown Core
+TRIP-1992,4.7,25.7,12,2047,Morning Peak,Foggy,Collector,Severe,No,Tuesday,Uptown Business
+TRIP-1993,5.3,22.6,19.1,2494,Evening Peak,Rainy,Arterial,Severe,No,Friday,Uptown Business
+TRIP-1994,10.4,29.2,25.7,1730,Morning Peak,Rainy,Arterial,Severe,No,Tuesday,Uptown Business
+TRIP-1995,12.9,15.6,55.4,632,Off-Peak,Rainy,Arterial,Low,No,Monday,Suburban Ring
+TRIP-1996,9.7,27.8,20.5,997,Off-Peak,Snowy,Collector,Moderate,No,Monday,Suburban Ring
+TRIP-1997,15,14.6,56.6,749,Off-Peak,Rainy,Arterial,Low,No,Wednesday,Industrial Park
+TRIP-1998,3.3,20.5,12,1414,Evening Peak,Snowy,Urban Local,Moderate,No,Wednesday,Suburban Ring
+TRIP-1999,4.5,11.8,36.8,1328,Morning Peak,Rainy,Collector,Moderate,No,Thursday,Industrial Park
+TRIP-2000,5.8,18.1,27.7,1120,Evening Peak,Snowy,Collector,Moderate,No,Sunday,Uptown Business
+TRIP-2001,12.8,17.5,53.4,1440,Morning Peak,Clear,Arterial,Moderate,No,Friday,Uptown Business
+TRIP-2002,3,17.7,12,2281,Morning Peak,Foggy,Urban Local,Severe,No,Monday,Downtown Core
+TRIP-2003,5.9,25.5,16.1,2041,Evening Peak,Clear,Urban Local,High,No,Monday,Downtown Core
+TRIP-2004,26.5,38,44.2,2868,Morning Peak,Rainy,Highway,Severe,No,Wednesday,Downtown Core
+TRIP-2005,1.9,13.3,12,1788,Evening Peak,Snowy,Urban Local,Severe,No,Monday,Industrial Park
+TRIP-2006,8.2,8.1,67.2,578,Off-Peak,Clear,Arterial,Low,No,Saturday,Uptown Business
+TRIP-2007,5.3,30.8,12,2060,Morning Peak,Foggy,Urban Local,Severe,No,Thursday,Industrial Park
+TRIP-2008,4.9,26.9,12,1906,Morning Peak,Rainy,Collector,Severe,No,Saturday,Industrial Park
+TRIP-2009,4.7,11,29.7,832,Off-Peak,Rainy,Urban Local,Low,No,Monday,Uptown Business
+TRIP-2010,12.6,17.2,56.2,1381,Morning Peak,Clear,Arterial,Moderate,No,Friday,Industrial Park
+TRIP-2011,3.2,6.6,27.6,703,Off-Peak,Rainy,Urban Local,Low,No,Sunday,Downtown Core
+TRIP-2012,5.4,48.3,12,1510,Evening Peak,Snowy,Urban Local,High,Yes,Thursday,Downtown Core
+TRIP-2013,6.3,10.4,55.9,1497,Evening Peak,Clear,Arterial,Moderate,No,Saturday,Industrial Park
+TRIP-2014,22.6,23.6,71.7,1655,Morning Peak,Clear,Highway,High,No,Tuesday,Industrial Park
+TRIP-2015,2.1,12.3,15.5,1716,Morning Peak,Clear,Urban Local,High,No,Wednesday,Industrial Park
+TRIP-2016,3.6,26.1,38.5,1464,Morning Peak,Clear,Arterial,Moderate,Yes,Saturday,Uptown Business
+TRIP-2017,1.3,3,26,1173,Off-Peak,Clear,Urban Local,Moderate,No,Thursday,Industrial Park
+TRIP-2018,4.6,21.5,16.9,1382,Evening Peak,Foggy,Urban Local,Moderate,No,Friday,Suburban Ring
+TRIP-2019,10.3,25.2,27.4,1526,Morning Peak,Snowy,Arterial,High,No,Thursday,Uptown Business
+TRIP-2020,10.5,20.5,39.5,2192,Morning Peak,Clear,Arterial,High,No,Thursday,Suburban Ring
+TRIP-2021,43.2,70.7,38.2,2776,Evening Peak,Snowy,Highway,Severe,No,Tuesday,Suburban Ring
+TRIP-2022,30.9,43,47.4,2972,Morning Peak,Rainy,Highway,Severe,No,Sunday,Uptown Business
+TRIP-2023,14.1,15.6,65.9,2163,Evening Peak,Clear,Highway,High,No,Thursday,Industrial Park
+TRIP-2024,10.8,14.3,50.3,738,Off-Peak,Clear,Collector,Low,No,Wednesday,Suburban Ring
+TRIP-2025,4.5,4.4,57.5,1148,Off-Peak,Clear,Arterial,Moderate,No,Thursday,Uptown Business
+TRIP-2026,2.6,6.4,19,1147,Off-Peak,Rainy,Urban Local,Moderate,No,Friday,Uptown Business
+TRIP-2027,42,38.1,66.8,1541,Off-Peak,Clear,Highway,High,No,Thursday,Uptown Business
+TRIP-2028,27.8,62.5,37.6,2853,Morning Peak,Rainy,Highway,Severe,Yes,Saturday,Industrial Park
+TRIP-2029,3.2,20.2,13,2313,Morning Peak,Clear,Collector,Severe,No,Wednesday,Industrial Park
+TRIP-2030,41.2,35.6,71,1617,Off-Peak,Clear,Highway,High,No,Saturday,Downtown Core
+TRIP-2031,5,12.8,45.3,1909,Evening Peak,Clear,Arterial,High,No,Tuesday,Uptown Business
+TRIP-2032,37.4,52.2,45.5,2252,Evening Peak,Foggy,Highway,Severe,No,Wednesday,Industrial Park
+TRIP-2033,9.9,12.6,42.9,915,Off-Peak,Foggy,Arterial,Moderate,No,Tuesday,Uptown Business
+TRIP-2034,32.3,39.3,52.1,2499,Morning Peak,Clear,Highway,Severe,No,Tuesday,Downtown Core
+TRIP-2035,39.5,37.9,62.9,1415,Off-Peak,Snowy,Highway,Moderate,No,Sunday,Downtown Core
+TRIP-2036,7.3,14.7,33.2,867,Off-Peak,Rainy,Urban Local,Low,No,Wednesday,Industrial Park
+TRIP-2037,12.6,18.1,55,2664,Evening Peak,Clear,Highway,Severe,No,Monday,Uptown Business
+TRIP-2038,15.5,40.7,24.8,1886,Evening Peak,Rainy,Arterial,Severe,No,Wednesday,Industrial Park
+TRIP-2039,34,22,87.5,881,Off-Peak,Clear,Highway,Low,No,Tuesday,Industrial Park
+TRIP-2040,27.5,38.9,46.3,2487,Evening Peak,Foggy,Highway,Severe,No,Thursday,Downtown Core
+TRIP-2041,9.1,25.6,26.5,1735,Evening Peak,Clear,Collector,High,No,Thursday,Industrial Park
+TRIP-2042,35.7,50.8,47.1,1749,Morning Peak,Rainy,Highway,Severe,No,Thursday,Suburban Ring
+TRIP-2043,12.3,13.1,51.3,1127,Off-Peak,Rainy,Arterial,Moderate,No,Friday,Downtown Core
+TRIP-2044,5,30.5,12,2171,Morning Peak,Rainy,Urban Local,Severe,No,Saturday,Uptown Business
+TRIP-2045,24.3,25,60.9,1429,Off-Peak,Snowy,Highway,Moderate,No,Thursday,Downtown Core
+TRIP-2046,24.8,39.6,40.2,2264,Morning Peak,Snowy,Highway,Severe,No,Tuesday,Industrial Park
+TRIP-2047,8.6,46.5,12,2550,Evening Peak,Snowy,Collector,Severe,No,Sunday,Suburban Ring
+TRIP-2048,10.7,17,41.6,920,Off-Peak,Snowy,Arterial,Moderate,No,Friday,Suburban Ring
+TRIP-2049,33.4,37.3,54.9,1543,Off-Peak,Foggy,Highway,High,No,Monday,Suburban Ring
+TRIP-2050,23.2,19.7,67.5,1509,Off-Peak,Clear,Highway,High,No,Friday,Uptown Business
+TRIP-2051,6.8,11.3,41.2,882,Off-Peak,Rainy,Collector,Low,No,Monday,Downtown Core
+TRIP-2052,15.5,18.2,56.1,954,Off-Peak,Clear,Arterial,Moderate,No,Thursday,Uptown Business
+TRIP-2053,2.8,14.2,14.3,1856,Morning Peak,Clear,Urban Local,High,No,Wednesday,Industrial Park
+TRIP-2054,4.1,14.2,26.7,2763,Evening Peak,Rainy,Arterial,Severe,No,Tuesday,Downtown Core
+TRIP-2055,10.1,13.8,50.9,642,Off-Peak,Clear,Collector,Low,No,Wednesday,Uptown Business
+TRIP-2056,43.2,35.2,72.1,1059,Off-Peak,Rainy,Highway,Moderate,No,Friday,Industrial Park
+TRIP-2057,3,33.2,12,2583,Morning Peak,Snowy,Collector,Severe,Yes,Wednesday,Industrial Park
+TRIP-2058,5.1,14.5,28.7,2517,Morning Peak,Clear,Arterial,Severe,No,Saturday,Suburban Ring
+TRIP-2059,3.8,10.1,22.2,1419,Off-Peak,Snowy,Collector,Moderate,No,Monday,Downtown Core
+TRIP-2060,7.4,42.3,12,1967,Evening Peak,Snowy,Urban Local,Severe,No,Saturday,Suburban Ring
+TRIP-2061,9.7,16.7,36.6,1137,Off-Peak,Clear,Collector,Moderate,No,Sunday,Downtown Core
+TRIP-2062,14.7,19.4,44.8,1089,Off-Peak,Rainy,Arterial,Moderate,No,Sunday,Suburban Ring
+TRIP-2063,1.8,11.4,19.3,1618,Evening Peak,Clear,Urban Local,High,No,Monday,Suburban Ring
+TRIP-2064,9.5,7.1,66.4,615,Off-Peak,Clear,Arterial,Low,No,Monday,Uptown Business
+TRIP-2065,8.7,29.3,31.3,889,Off-Peak,Rainy,Collector,Low,Yes,Tuesday,Downtown Core
+TRIP-2066,40.3,85.8,39.4,2859,Morning Peak,Clear,Highway,Severe,Yes,Wednesday,Suburban Ring
+TRIP-2067,6.8,49.2,12,2301,Morning Peak,Clear,Collector,Severe,Yes,Monday,Industrial Park
+TRIP-2068,5.3,6.2,39.7,1249,Off-Peak,Snowy,Arterial,Moderate,No,Sunday,Downtown Core
+TRIP-2069,17.3,17.1,62.7,699,Off-Peak,Clear,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-2070,21.3,25.2,57.1,2609,Morning Peak,Clear,Highway,Severe,No,Wednesday,Industrial Park
+TRIP-2071,41.6,58.7,44.8,2636,Morning Peak,Rainy,Highway,Severe,No,Saturday,Downtown Core
+TRIP-2072,7.5,17.2,30.4,1517,Morning Peak,Clear,Collector,High,No,Wednesday,Uptown Business
+TRIP-2073,1,3,29,1090,Off-Peak,Clear,Urban Local,Moderate,No,Wednesday,Downtown Core
+TRIP-2074,15.5,10.7,78.8,1325,Off-Peak,Clear,Highway,Moderate,No,Wednesday,Suburban Ring
+TRIP-2075,19.2,28.1,48.6,2270,Morning Peak,Rainy,Highway,Severe,No,Sunday,Suburban Ring
+TRIP-2076,9.8,7.2,65.2,699,Off-Peak,Clear,Arterial,Low,No,Friday,Uptown Business
+TRIP-2077,15.1,15.4,57.5,790,Off-Peak,Rainy,Arterial,Low,No,Monday,Uptown Business
+TRIP-2078,3.9,44,12,1828,Evening Peak,Clear,Urban Local,High,Yes,Friday,Industrial Park
+TRIP-2079,3.7,15.7,17.2,1865,Morning Peak,Foggy,Arterial,Severe,No,Friday,Uptown Business
+TRIP-2080,31.9,23.4,77.6,815,Off-Peak,Foggy,Highway,Low,No,Friday,Suburban Ring
+TRIP-2081,14,16.5,53.2,1052,Off-Peak,Clear,Arterial,Moderate,No,Sunday,Downtown Core
+TRIP-2082,29.8,22.3,87.8,865,Off-Peak,Clear,Highway,Low,No,Monday,Uptown Business
+TRIP-2083,1.9,11.5,16.8,2034,Evening Peak,Clear,Urban Local,High,No,Monday,Uptown Business
+TRIP-2084,17.5,53.1,30.9,2711,Morning Peak,Rainy,Highway,Severe,Yes,Tuesday,Downtown Core
+TRIP-2085,6,8.2,37.7,1142,Off-Peak,Clear,Collector,Moderate,No,Saturday,Suburban Ring
+TRIP-2086,5.6,31.3,12,1894,Morning Peak,Snowy,Urban Local,Severe,No,Saturday,Industrial Park
+TRIP-2087,7.3,14.6,30,912,Off-Peak,Clear,Urban Local,Moderate,No,Sunday,Downtown Core
+TRIP-2088,13.4,15.8,64.9,1792,Evening Peak,Clear,Highway,High,No,Sunday,Suburban Ring
+TRIP-2089,17.5,24.5,54.2,2623,Evening Peak,Clear,Highway,Severe,No,Friday,Industrial Park
+TRIP-2090,4.1,11,36.5,1685,Evening Peak,Rainy,Arterial,High,No,Saturday,Suburban Ring
+TRIP-2091,4.4,5.5,40.5,457,Off-Peak,Clear,Urban Local,Low,No,Sunday,Suburban Ring
+TRIP-2092,7,6.1,55.3,766,Off-Peak,Foggy,Arterial,Low,No,Saturday,Suburban Ring
+TRIP-2093,6.7,20.2,22.3,1804,Morning Peak,Rainy,Arterial,Severe,No,Tuesday,Suburban Ring
+TRIP-2094,8.3,25.4,24.6,1718,Evening Peak,Clear,Collector,High,No,Saturday,Uptown Business
+TRIP-2095,15.6,14.4,57.5,1246,Off-Peak,Clear,Arterial,Moderate,No,Saturday,Downtown Core
+TRIP-2096,39.6,65.4,38,2122,Evening Peak,Snowy,Highway,Severe,No,Thursday,Suburban Ring
+TRIP-2097,11.8,12.4,61.8,899,Off-Peak,Clear,Arterial,Low,No,Saturday,Industrial Park
+TRIP-2098,42.1,68.4,37.9,2607,Morning Peak,Snowy,Highway,Severe,No,Monday,Industrial Park
+TRIP-2099,6.5,6.4,61.7,688,Off-Peak,Clear,Arterial,Low,No,Tuesday,Uptown Business
+TRIP-2100,13.6,39.5,21.5,2208,Morning Peak,Rainy,Arterial,Severe,No,Sunday,Uptown Business
+TRIP-2101,1.2,26.6,12,1788,Morning Peak,Rainy,Urban Local,Severe,Yes,Thursday,Industrial Park
+TRIP-2102,6,22.8,17,1175,Off-Peak,Foggy,Urban Local,Moderate,No,Saturday,Suburban Ring
+TRIP-2103,30,61.1,36.9,1895,Off-Peak,Rainy,Highway,Severe,Yes,Monday,Downtown Core
+TRIP-2104,5.3,9.1,32.9,900,Off-Peak,Snowy,Collector,Low,No,Monday,Industrial Park
+TRIP-2105,6.3,7.8,46.1,680,Off-Peak,Clear,Collector,Low,No,Monday,Suburban Ring
+TRIP-2106,25.1,39.8,40.5,2418,Evening Peak,Foggy,Highway,Severe,No,Sunday,Downtown Core
+TRIP-2107,2.7,9.1,37.7,1259,Morning Peak,Clear,Collector,Moderate,No,Wednesday,Uptown Business
+TRIP-2108,3.3,3,57,1173,Off-Peak,Clear,Arterial,Moderate,No,Monday,Downtown Core
+TRIP-2109,6,9,39.1,783,Off-Peak,Clear,Urban Local,Low,No,Friday,Uptown Business
+TRIP-2110,3.4,4.9,33,968,Off-Peak,Rainy,Collector,Moderate,No,Monday,Downtown Core
+TRIP-2111,11.3,21.3,44.1,1805,Evening Peak,Clear,Arterial,High,No,Thursday,Industrial Park
+TRIP-2112,3,5.5,48.6,991,Off-Peak,Rainy,Arterial,Moderate,No,Wednesday,Industrial Park
+TRIP-2113,20.7,23.3,51.2,1753,Off-Peak,Rainy,Highway,Severe,No,Monday,Downtown Core
+TRIP-2114,6.3,11,39.2,555,Off-Peak,Clear,Urban Local,Low,No,Wednesday,Uptown Business
+TRIP-2115,39.9,58.5,44.7,1828,Evening Peak,Foggy,Highway,Severe,No,Monday,Suburban Ring
+TRIP-2116,13.6,11.7,59.7,606,Off-Peak,Rainy,Arterial,Low,No,Sunday,Suburban Ring
+TRIP-2117,3,17.6,12,2065,Morning Peak,Rainy,Urban Local,Severe,No,Tuesday,Uptown Business
+TRIP-2118,2.9,17.9,12,2544,Evening Peak,Snowy,Collector,Severe,No,Wednesday,Uptown Business
+TRIP-2119,26.7,19.3,82.8,1394,Off-Peak,Clear,Highway,Moderate,No,Thursday,Suburban Ring
+TRIP-2120,5.8,13.5,26.9,1253,Off-Peak,Clear,Urban Local,Moderate,No,Saturday,Downtown Core
+TRIP-2121,14.1,14.8,56.7,416,Off-Peak,Foggy,Arterial,Low,No,Wednesday,Suburban Ring
+TRIP-2122,7,37.1,12,1924,Morning Peak,Rainy,Collector,Severe,No,Tuesday,Suburban Ring
+TRIP-2123,8.2,15.3,42.9,1415,Morning Peak,Clear,Collector,Moderate,No,Wednesday,Uptown Business
+TRIP-2124,3.4,13.7,19.5,1807,Evening Peak,Foggy,Arterial,Severe,No,Tuesday,Uptown Business
+TRIP-2125,23.2,30.3,48.6,2958,Morning Peak,Rainy,Highway,Severe,No,Wednesday,Suburban Ring
+TRIP-2126,10.6,17.2,44.8,2051,Morning Peak,Clear,Arterial,High,No,Friday,Industrial Park
+TRIP-2127,1.5,8.1,18.5,2095,Morning Peak,Clear,Urban Local,High,No,Friday,Uptown Business
+TRIP-2128,38.5,33.8,70.1,1349,Off-Peak,Rainy,Highway,Moderate,No,Saturday,Industrial Park
+TRIP-2129,5,26.7,12,2194,Morning Peak,Rainy,Urban Local,Severe,No,Thursday,Uptown Business
+TRIP-2130,15.2,24.6,39.2,1174,Off-Peak,Foggy,Arterial,Moderate,No,Monday,Suburban Ring
+TRIP-2131,5.6,45.6,12,1348,Evening Peak,Rainy,Urban Local,Moderate,Yes,Saturday,Suburban Ring
+TRIP-2132,6.4,31.6,13.3,1880,Morning Peak,Clear,Urban Local,High,No,Tuesday,Uptown Business
+TRIP-2133,19.3,16.3,75.8,1393,Off-Peak,Rainy,Highway,Moderate,No,Wednesday,Uptown Business
+TRIP-2134,3.1,11.6,26.1,1032,Evening Peak,Clear,Urban Local,Moderate,No,Friday,Industrial Park
+TRIP-2135,4.9,5.7,40.1,1195,Off-Peak,Clear,Collector,Moderate,No,Wednesday,Industrial Park
+TRIP-2136,14.5,13.7,62.3,704,Off-Peak,Clear,Arterial,Low,No,Wednesday,Uptown Business
+TRIP-2137,10,33.6,19.8,2160,Morning Peak,Foggy,Arterial,Severe,No,Monday,Industrial Park
+TRIP-2138,17.6,17.9,55.8,920,Off-Peak,Clear,Arterial,Moderate,No,Tuesday,Suburban Ring
+TRIP-2139,7.3,10.1,41.6,797,Off-Peak,Clear,Urban Local,Low,No,Friday,Downtown Core
+TRIP-2140,10.6,15.9,39.9,990,Off-Peak,Snowy,Arterial,Moderate,No,Wednesday,Downtown Core
+TRIP-2141,42,36,78.7,1433,Morning Peak,Clear,Highway,Moderate,No,Sunday,Industrial Park
+TRIP-2142,31.5,30.4,60.9,1515,Off-Peak,Rainy,Highway,High,No,Thursday,Suburban Ring
+TRIP-2143,5.5,9.9,40.6,710,Off-Peak,Foggy,Collector,Low,No,Friday,Uptown Business
+TRIP-2144,42.2,79.9,39.3,2611,Morning Peak,Clear,Highway,Severe,Yes,Monday,Industrial Park
+TRIP-2145,8.3,48,12,2119,Evening Peak,Snowy,Collector,Severe,No,Friday,Downtown Core
+TRIP-2146,9.5,14.5,36.9,932,Off-Peak,Clear,Collector,Moderate,No,Tuesday,Suburban Ring
+TRIP-2147,2.3,4.5,28.1,591,Off-Peak,Rainy,Urban Local,Low,No,Saturday,Suburban Ring
+TRIP-2148,7.2,15.5,28.2,918,Off-Peak,Clear,Urban Local,Moderate,No,Wednesday,Industrial Park
+TRIP-2149,43.2,52.1,54.1,2453,Morning Peak,Clear,Highway,Severe,No,Friday,Industrial Park
+TRIP-2150,6.3,10,33.7,528,Off-Peak,Rainy,Urban Local,Low,No,Sunday,Uptown Business
+TRIP-2151,4,8.6,29.9,917,Off-Peak,Foggy,Collector,Moderate,No,Wednesday,Downtown Core
+TRIP-2152,2.5,8.8,17.5,1155,Off-Peak,Rainy,Urban Local,Moderate,No,Thursday,Uptown Business
+TRIP-2153,1.1,10.1,12,2364,Morning Peak,Clear,Urban Local,Severe,No,Monday,Downtown Core
+TRIP-2154,40.5,36.1,69.5,1038,Off-Peak,Rainy,Highway,Moderate,No,Saturday,Industrial Park
+TRIP-2155,2.5,8.2,19.2,714,Off-Peak,Snowy,Urban Local,Low,No,Thursday,Downtown Core
+TRIP-2156,39.2,98.2,31.7,2501,Evening Peak,Rainy,Highway,Severe,Yes,Monday,Suburban Ring
+TRIP-2157,3.4,29.6,16.1,900,Off-Peak,Rainy,Urban Local,Low,Yes,Thursday,Uptown Business
+TRIP-2158,2.7,5,38.2,739,Off-Peak,Clear,Urban Local,Low,No,Wednesday,Suburban Ring
+TRIP-2159,16.6,25.8,37.7,961,Off-Peak,Snowy,Arterial,Moderate,No,Monday,Industrial Park
+TRIP-2160,13.6,13.7,68.6,409,Off-Peak,Clear,Arterial,Low,No,Friday,Industrial Park
+TRIP-2161,7.6,15.2,40.3,1134,Morning Peak,Clear,Collector,Moderate,No,Tuesday,Suburban Ring
+TRIP-2162,9.4,31,38,449,Off-Peak,Clear,Collector,Low,Yes,Thursday,Uptown Business
+TRIP-2163,14.8,8.1,92.1,871,Off-Peak,Clear,Highway,Low,No,Tuesday,Industrial Park
+TRIP-2164,6.7,6.1,67.1,826,Off-Peak,Clear,Arterial,Low,No,Sunday,Industrial Park
+TRIP-2165,2,15.7,12,2428,Evening Peak,Rainy,Urban Local,Severe,No,Wednesday,Downtown Core
+TRIP-2166,3.1,9.6,27.9,1977,Evening Peak,Clear,Collector,High,No,Friday,Suburban Ring
+TRIP-2167,20.9,15.7,71.5,1306,Off-Peak,Rainy,Highway,Moderate,No,Wednesday,Downtown Core
+TRIP-2168,17.6,12.3,81.6,1191,Off-Peak,Clear,Highway,Moderate,No,Friday,Industrial Park
+TRIP-2169,6.7,18,26.2,2091,Evening Peak,Rainy,Arterial,Severe,No,Thursday,Uptown Business
+TRIP-2170,7.6,16.1,40.5,1890,Evening Peak,Clear,Arterial,High,No,Thursday,Uptown Business
+TRIP-2171,18.8,16.3,76.4,1379,Off-Peak,Rainy,Highway,Moderate,No,Wednesday,Uptown Business
+TRIP-2172,5.4,16.2,30.2,1376,Morning Peak,Clear,Urban Local,Moderate,No,Thursday,Industrial Park
+TRIP-2173,31.6,44.1,44.6,2874,Morning Peak,Rainy,Highway,Severe,No,Monday,Uptown Business
+TRIP-2174,6.1,14,27.5,867,Off-Peak,Rainy,Urban Local,Low,No,Saturday,Downtown Core
+TRIP-2175,3.8,18.9,17.8,1969,Evening Peak,Clear,Urban Local,High,No,Thursday,Industrial Park
+TRIP-2176,9.8,25.1,27.1,1957,Morning Peak,Clear,Collector,High,No,Saturday,Suburban Ring
+TRIP-2177,3.9,4.7,44.2,894,Off-Peak,Rainy,Collector,Low,No,Tuesday,Downtown Core
+TRIP-2178,3,4.8,41.7,866,Off-Peak,Rainy,Collector,Low,No,Thursday,Uptown Business
+TRIP-2179,12.1,30.7,27.9,2217,Evening Peak,Clear,Arterial,Severe,No,Wednesday,Suburban Ring
+TRIP-2180,11.1,29.7,42,453,Off-Peak,Rainy,Arterial,Low,Yes,Tuesday,Suburban Ring
+TRIP-2181,16.6,31.7,39.3,2236,Evening Peak,Snowy,Highway,Severe,No,Thursday,Suburban Ring
+TRIP-2182,4,20.6,16.4,1760,Evening Peak,Clear,Urban Local,High,No,Saturday,Uptown Business
+TRIP-2183,31.9,49.2,41.1,2474,Morning Peak,Snowy,Highway,Severe,No,Tuesday,Downtown Core
+TRIP-2184,4,19,14.9,1527,Evening Peak,Snowy,Collector,High,No,Thursday,Suburban Ring
+TRIP-2185,1.2,8.5,12,1929,Morning Peak,Rainy,Urban Local,Severe,No,Monday,Downtown Core
+TRIP-2186,35.9,26.5,83.9,1264,Off-Peak,Clear,Highway,Moderate,No,Monday,Suburban Ring
+TRIP-2187,15.4,20.6,51.3,2649,Evening Peak,Rainy,Highway,Severe,No,Tuesday,Industrial Park
+TRIP-2188,13.9,14.4,53.5,823,Off-Peak,Foggy,Arterial,Low,No,Monday,Downtown Core
+TRIP-2189,24.4,20.3,66.4,1698,Off-Peak,Clear,Highway,High,No,Tuesday,Downtown Core
+TRIP-2190,6.9,34,14,2663,Evening Peak,Snowy,Arterial,Severe,No,Tuesday,Downtown Core
+TRIP-2191,4.8,7.3,51.7,1046,Off-Peak,Clear,Arterial,Moderate,No,Thursday,Suburban Ring
+TRIP-2192,39.9,33.4,69.7,1203,Off-Peak,Foggy,Highway,Moderate,No,Friday,Uptown Business
+TRIP-2193,3.5,9,30.6,2065,Morning Peak,Clear,Collector,High,No,Monday,Downtown Core
+TRIP-2194,5.9,33,12,2061,Evening Peak,Rainy,Urban Local,Severe,No,Friday,Uptown Business
+TRIP-2195,15.7,21.9,42.8,1189,Off-Peak,Snowy,Arterial,Moderate,No,Wednesday,Downtown Core
+TRIP-2196,2.8,9.1,28.4,1425,Morning Peak,Clear,Urban Local,Moderate,No,Tuesday,Downtown Core
+TRIP-2197,2.5,5.3,34.1,756,Off-Peak,Clear,Urban Local,Low,No,Tuesday,Uptown Business
+TRIP-2198,2.8,9,24.9,2184,Morning Peak,Clear,Collector,High,No,Monday,Suburban Ring
+TRIP-2199,3.1,9,24.9,518,Off-Peak,Snowy,Urban Local,Low,No,Thursday,Suburban Ring
+TRIP-2200,21,17.4,67.3,936,Off-Peak,Snowy,Highway,Moderate,No,Sunday,Uptown Business
